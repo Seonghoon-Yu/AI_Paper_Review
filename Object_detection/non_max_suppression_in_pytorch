@@ -1,0 +1,33 @@
+import torch
+
+from IoU_in_pytorch import intersection_over_union
+
+def nms(bboxes, iou_threshold, threshold, box_format='corners'):
+
+    # bboxes가 list인지 확인합니다.
+    assert type(bboxes) == list
+
+    # box 점수가 threshold보다 높은 것을 선별합니다.
+    # box shape는 [class, score, x1, y1, x2, y2] 입니다.
+    bboxes = [box for box in bboxes if box[1] > threshold]
+    # 점수 오름차순으로 정렬합니다.
+    bboxes = sorted(bboxes, key=lambda x: x[1], reverse=True)
+    bboxes_after_nmn = []
+
+    # bboxes가 모두 제거될때 까지 반복합니다.
+    while bboxes:
+        # 0번째 index가 가장 높은 점수를 갖고있는 box입니다. 이것을 선택하고 bboxes에서 제거합니다.
+        chosen_box = bboxes.pop(0)
+
+        # box가 선택된 box와의 iou가 임계치보다 낮거나
+        # class가 다르다면 bboxes에 남기고, 그 이외는 다 없앱니다.
+        bboxes = [box for box in bboxes if box[0] != chosen_box[0] \
+               or intersection_over_union(torch.tensor(chosen_box[2:]),
+                                          torch.tensor(box[2:]),
+                                          box_format=box_format)
+                    < iou_threshold]
+
+        # 선택된 박스를 추가합니다.
+        bboxes_after_nmn.append(chosen_box)
+
+    return bboxes_after_nmn
