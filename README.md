@@ -18,3 +18,5 @@
 
 
 # Object detection
+
+- [IoU(Intersection of Union)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/402)
