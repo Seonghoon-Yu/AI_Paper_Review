@@ -22,3 +22,10 @@
 - [IoU(Intersection over Union)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/402)
 
 - [비-최대 억제(NMS, Non-maximum Suppression)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/403)
+
+- [mAP(mean Average Precision)을 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/407)
+
+
+
+
+
