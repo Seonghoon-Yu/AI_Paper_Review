@@ -25,7 +25,7 @@
 
 - [mAP(mean Average Precision)을 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/407)
 
-
+1. [R-CNN(2013) 논문 리뷰](https://deep-learning-study.tistory.com/410)
 
 
 
