@@ -25,7 +25,10 @@
 
 - [mAP(mean Average Precision)을 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/407)
 
+- [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 1](https://deep-learning-study.tistory.com/411)
+
 1. [R-CNN(2013) 리뷰](https://deep-learning-study.tistory.com/410)
+
 
 
 
