@@ -27,9 +27,11 @@
 
 1. [R-CNN(2013) 리뷰](https://deep-learning-study.tistory.com/410)
 
-### YOLO
+### YOLO v3
 
 1. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 1](https://deep-learning-study.tistory.com/411)
+
+2. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 2](https://deep-learning-study.tistory.com/412)
 
 
 
