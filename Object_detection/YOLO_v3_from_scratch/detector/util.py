@@ -101,5 +101,88 @@ def write_results(prediction, confidence, num_classes, nms_conf = 0.4):
             continue 
             
         # 이미지에서 검출된 다양한 classes를 얻기
-        img_classes = unique(image_pred_[:,-1] # -1 index는 class index를 지니고 있습니다.
+        img_classes = unique(image_pred_[:,-1]) # -1 index는 class index를 지니고 있습니다.
+        
+        for cls in img_classes:
+            # NMS 실행하기
                          
+            # 특정 클래스에 대한 detections 얻기
+            cls_mask = image_pred_*(image_pred_[:,-1] == cls).float().unsqueeze(1)
+            class_mask_ind = torch.nonzero(cls_mask[:,-2]).squeeze()
+            image_pred_class = image_pred_[class_mask_ind].view(-1,7)
+            
+            # 가장 높은 objectness를 지닌 detections 순으로 정렬하기
+            # confidence는 가장 위에 있습니다.
+            conf_sort_index = torch.sort(image_pred_class[:,4], descending = True )[1]
+            image_pred_class = image_pred_class[conf_sort_index]
+            idx = image_pred_class.size(0)   #detections의 수
+            
+            for i in range(idx):
+                # 모든 박스에 대해 하나하나 IOU 얻기
+                try:
+                    #  i 인덱스를 갖고 있는 box의 IoU와 i보다 큰 인덱스를 지닌 bounding boxes 얻기
+                    ious = bbox_iou(image_pred_class[i].unsqueeze(0), image_pred_class[i+1:])
+                except ValueError:
+                    break
+
+                except IndexError:
+                    break
+                
+                # IoU > threshhold인 detections를 0으로 만들기
+                iou_mask = (ious < nms_conf).float().unsqueeze(1)
+                image_pred_class[i+1:] *= iou_mask       
+
+                # non-zero 항목 제거하기
+                non_zero_ind = torch.nonzero(image_pred_class[:,4]).squeeze()
+                image_pred_class = image_pred_class[non_zero_ind].view(-1,7)
+                
+            batch_ind = image_pred_class.new(image_pred_class.size(0), 1).fill_(ind)      
+            # 이미지에 있는 class의 detections 만큼 batch_id를 반복합니다.
+            seq = batch_ind, image_pred_class
+
+            if not write:
+                output = torch.cat(seq,1)
+                write = True
+            else:
+                out = torch.cat(seq,1)
+                output = torch.cat((output,out))
+    
+    try:
+        return output
+    except:
+        return 0
+                
+        
+# iou 계산하기
+def bbox_iou(box1, box2):
+    # bounding boxes의 좌표를 얻습니다.
+    b1_x1, b1_y1, b1_x2, b1_y2 = box1[:,0], box1[:,1], box1[:,2], box1[:,3]
+    b2_x1, b2_y1, b2_x2, b2_y2 = box2[:,0], box2[:,1], box2[:,2], box2[:,3]
+    
+    # intersection rectangle 좌표를 얻습니다.
+    inter_rect_x1 =  torch.max(b1_x1, b2_x1)
+    inter_rect_y1 =  torch.max(b1_y1, b2_y1)
+    inter_rect_x2 =  torch.min(b1_x2, b2_x2)
+    inter_rect_y2 =  torch.min(b1_y2, b2_y2)
+    
+    #Intersection 영역
+    inter_area = torch.clamp(inter_rect_x2 - inter_rect_x1 + 1, min=0) * torch.clamp(inter_rect_y2 - inter_rect_y1 + 1, min=0)
+ 
+    # Union 영역
+    b1_area = (b1_x2 - b1_x1 + 1)*(b1_y2 - b1_y1 + 1)
+    b2_area = (b2_x2 - b2_x1 + 1)*(b2_y2 - b2_y1 + 1)
+    
+    iou = inter_area / (b1_area + b2_area - inter_area)
+    
+    return iou                
+                
+
+# class를 얻기 위한 unique 함수
+def unique(tensor):
+    tensor_np = tensor.cpu().numpy()
+    unique_np = np.unique(tensor_np)
+    unique_tensor = torch.from_numpy(unique_np)
+    
+    tensor_res = tensor.new(unique_tensor.shape)
+    tensor_res.copy_(unique_tensor)
+    return tensor_res
