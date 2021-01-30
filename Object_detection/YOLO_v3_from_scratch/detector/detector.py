@@ -50,3 +50,9 @@ confidence = float(args.confidence)
 nms_thesh = float(args.nms_thresh)
 start = 0
 CUDA = torch.cuda.is_available()
+
+num_classes = 80    #For COCO
+classes = load_classes("data/coco.names")
+
+
+
