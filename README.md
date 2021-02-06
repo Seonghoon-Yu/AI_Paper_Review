@@ -27,13 +27,31 @@
 
 1. [R-CNN(2013) 리뷰](https://deep-learning-study.tistory.com/410)
 
+2. [YOLO v1 (2016) 리뷰](https://deep-learning-study.tistory.com/430)
+
+3. [YOLO v2 (2017) 리뷰](https://deep-learning-study.tistory.com/433)
+
 ### YOLO v3
 
 1. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 1](https://deep-learning-study.tistory.com/411)
 
 2. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 2](https://deep-learning-study.tistory.com/412)
 
+3. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 3](https://deep-learning-study.tistory.com/422)
+
+4. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 4](https://deep-learning-study.tistory.com/426)
+
+5. [YOLO v3을 PyTorch로 바닥부터 구현하기 Part 5](https://deep-learning-study.tistory.com/428)
 
 
 
+# Normalization
+
+1. [배치 정규화, Batch Normalization(2015) 리뷰](https://deep-learning-study.tistory.com/421)
+
+
+
+# Optimization
+
+1. [An overview of gradient descent optimization algorithm(2017) 리뷰](https://deep-learning-study.tistory.com/415)
 
