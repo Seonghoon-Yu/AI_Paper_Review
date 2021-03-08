@@ -13,12 +13,11 @@
 # 논문 리뷰
 
 ### Classification
-- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368?category=963091)
-
-- [AlexNet(2012) 리뷰](https://deep-learning-study.tistory.com/376?category=963091)
-- [GoogLeNet(2014) 리뷰](https://deep-learning-study.tistory.com/389?category=963091)
-- [VGGNet(2014) 리뷰](https://deep-learning-study.tistory.com/398?category=963091)
-
+- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368)
+- [AlexNet(2012) 리뷰](https://deep-learning-study.tistory.com/376)
+- [GoogLeNet(2014) 리뷰](https://deep-learning-study.tistory.com/389)
+- [VGGNet(2014) 리뷰](https://deep-learning-study.tistory.com/398)
+- [ResNet(2015) 리뷰](https://deep-learning-study.tistory.com/473)
 
 ### Object Detection
 
