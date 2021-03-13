@@ -6,7 +6,7 @@
 ---
 # 논문 구현
 ### Classification
-- [LeNet-5(1998) 구현](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb)
+- LeNet-5(1998) 구현 [colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [블로그](https://deep-learning-study.tistory.com/503)
 - [AlexNet(2012) 구현](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb)
 ---
 # 논문 리뷰
