@@ -17,6 +17,9 @@
 - [GoogLeNet(2014) 리뷰](https://deep-learning-study.tistory.com/389)
 - [VGGNet(2014) 리뷰](https://deep-learning-study.tistory.com/398)
 - [ResNet(2015) 리뷰](https://deep-learning-study.tistory.com/473)
+- [Inception-v3(2015) 리뷰](https://deep-learning-study.tistory.com/517)
+- [Pre-Activation ResNet(2016) 리뷰](https://deep-learning-study.tistory.com/510)
+
 
 ### Object Detection
 
@@ -29,14 +32,15 @@
 - [Fast R-CNN(2014) 리뷰](https://deep-learning-study.tistory.com/456)
 - [Faster R-CNN(2015) 리뷰](https://deep-learning-study.tistory.com/464)
 - [SSD(2016) 리뷰](https://deep-learning-study.tistory.com/477)
-- [YOLO v1 (2016) 리뷰](https://deep-learning-study.tistory.com/430)
+- [YOLO v1(2016) 리뷰](https://deep-learning-study.tistory.com/430)
 - [OHEM(2016) 리뷰](https://deep-learning-study.tistory.com/501)
-- [YOLO v2 (2017) 리뷰](https://deep-learning-study.tistory.com/433)
+- [YOLO v2(2017) 리뷰](https://deep-learning-study.tistory.com/433)
 - [FPN(2017) 리뷰](https://deep-learning-study.tistory.com/491)
+- [YOLO v3(2018) 리뷰](https://deep-learning-study.tistory.com/509)
 
 ### Normalization
 
-- [배치 정규화, Batch Normalization(2015) 리뷰](https://deep-learning-study.tistory.com/421)
+- [Batch Normalization(2015) 리뷰](https://deep-learning-study.tistory.com/421)
 
 
 
