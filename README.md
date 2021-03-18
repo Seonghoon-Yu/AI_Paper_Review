@@ -3,9 +3,6 @@
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
----
-# 논문 리뷰와 구현
-
 ### Classification
 - [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368), PyTorch Implement [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [블로그](https://deep-learning-study.tistory.com/503)]
 
