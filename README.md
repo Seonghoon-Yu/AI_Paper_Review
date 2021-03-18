@@ -10,12 +10,13 @@
 - AlexNet(2012) 구현 [Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [블로그](https://deep-learning-study.tistory.com/518)
 - VGGNet(2014) 구현 [Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/VGGnet(2014).ipynb) / [블로그](https://deep-learning-study.tistory.com/521)
 - GoogLeNet(2014) 구현 [Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/GoogLeNet(2014).ipynb) / [블로그](https://deep-learning-study.tistory.com/523)
+- ResNet(
 
 ---
-# 논문 리뷰
+# 논문 리뷰와 구현
 
 ### Classification
-- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368)
+- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368), PyTorch Implement [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [블로그](https://deep-learning-study.tistory.com/503)]
 
 - [AlexNet(2012) 리뷰](https://deep-learning-study.tistory.com/376)
 
