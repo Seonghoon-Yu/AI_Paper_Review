@@ -22,6 +22,21 @@
 
 - [SqueezeNet(2016) 리뷰](https://deep-learning-study.tistory.com/520)
 
+- [Inception-v4(2016) 리뷰](https://deep-learning-study.tistory.com/525)
+
+- [PyramidNet(2017) 리뷰](https://deep-learning-study.tistory.com/526)
+
+- [DenseNet(2017) 리뷰](https://deep-learning-study.tistory.com/528)
+
+- [Xception(2017) 리뷰](https://deep-learning-study.tistory.com/529)
+
+- [MobileNet(2017) 리뷰](https://deep-learning-study.tistory.com/532)
+
+- [ResNext(2017) 리뷰](https://deep-learning-study.tistory.com/533)
+
+- [PolyNet(2017) 리뷰](https://deep-learning-study.tistory.com/535)
+
+
 
 ### Object Detection
 
