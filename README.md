@@ -14,7 +14,7 @@
 
 - [Inception-v3(2015) 리뷰](https://deep-learning-study.tistory.com/517)
 
-- [ResNet(2015) 리뷰](https://deep-learning-study.tistory.com/473), PyTorch Implement [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/ResNet(2015).ipynb) / [Tistory Posting](https://deep-learning-study.tistory.com/534?category=983681)
+- [ResNet(2015) 리뷰](https://deep-learning-study.tistory.com/473), PyTorch Implement [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/ResNet(2015).ipynb) / [Tistory Posting](https://deep-learning-study.tistory.com/534?category=983681)]
 
 - [Pre-Activation ResNet(2016) 리뷰](https://deep-learning-study.tistory.com/510)
 
