@@ -4,9 +4,9 @@
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ### Classification
-- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368), PyTorch Implementation [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Tistory Posting](https://deep-learning-study.tistory.com/503)]
+- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
 
-- [AlexNet(2012) 리뷰](https://deep-learning-study.tistory.com/376), PyTorch Implementation [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [Tistory Posting](https://deep-learning-study.tistory.com/518)]
+- [AlexNet(2012) 리뷰](https://deep-learning-study.tistory.com/376), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/518)]
 
 - [GoogLeNet(2014) 리뷰](https://deep-learning-study.tistory.com/389), PyTorch Implementation [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/GoogLeNet(2014).ipynb) / [Tistory Posting](https://deep-learning-study.tistory.com/523)]
 
@@ -14,9 +14,9 @@
 
 - [Inception-v3(2015) 리뷰](https://deep-learning-study.tistory.com/517)
 
-- [ResNet(2015) 리뷰](https://deep-learning-study.tistory.com/473), PyTorch Implementation [[Google Colab Code](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/ResNet(2015).ipynb) / [Tistory Posting](https://deep-learning-study.tistory.com/534?category=983681)]
+- [ResNet(2015) 리뷰](https://deep-learning-study.tistory.com/473), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/ResNet(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/534?category=983681)]
 
-- [Pre-Activation ResNet(2016) 리뷰](https://deep-learning-study.tistory.com/510)
+- [Pre-Activation ResNet(2016) 리뷰](https://deep-learning-study.tistory.com/510), PyTorch [[Google Colab Code]
 
 - [WRN, Wide Residual Networks(2016) 리뷰](https://deep-learning-study.tistory.com/519)
 
@@ -30,11 +30,23 @@
 
 - [Xception(2017) 리뷰](https://deep-learning-study.tistory.com/529)
 
-- [MobileNet(2017) 리뷰](https://deep-learning-study.tistory.com/532)
+- [MobileNetV1(2017) 리뷰](https://deep-learning-study.tistory.com/532)
 
 - [ResNext(2017) 리뷰](https://deep-learning-study.tistory.com/533)
 
 - [PolyNet(2017) 리뷰](https://deep-learning-study.tistory.com/535)
+
+- [Residual Attention Network(2017) 리뷰](https://deep-learning-study.tistory.com/536)
+
+- [DPN(2017) 리뷰](https://deep-learning-study.tistory.com/538)
+
+- [SENet(2018) 리뷰](https://deep-learning-study.tistory.com/539)
+
+- [MobileNetV2(2018) 리뷰](https://deep-learning-study.tistory.com/541)
+
+- [ShuffleNet(2018) 리뷰](https://deep-learning-study.tistory.com/544)
+
+- [NasNet(2018) 리뷰](https://deep-learning-study.tistory.com/543)
 
 
 
