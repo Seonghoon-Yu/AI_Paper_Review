@@ -28,21 +28,21 @@
 
 - [PyramidNet(2017) 리뷰](https://deep-learning-study.tistory.com/526)
 
-- [DenseNet(2017) 리뷰](https://deep-learning-study.tistory.com/528), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/DenseNet(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/545)]
+- [DenseNet(2017) 리뷰](https://deep-learning-study.tistory.com/528), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/DenseNet(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/545)]
 
-- [Xception(2017) 리뷰](https://deep-learning-study.tistory.com/529), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/548)]
+- [Xception(2017) 리뷰](https://deep-learning-study.tistory.com/529), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/548)]
 
-- [MobileNetV1(2017) 리뷰](https://deep-learning-study.tistory.com/532), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/549)]
+- [MobileNetV1(2017) 리뷰](https://deep-learning-study.tistory.com/532), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/549)]
 
-- [ResNext(2017) 리뷰](https://deep-learning-study.tistory.com/533), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/ResNext(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/558)]
+- [ResNext(2017) 리뷰](https://deep-learning-study.tistory.com/533), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/ResNext(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/558)]
 
 - [PolyNet(2017) 리뷰](https://deep-learning-study.tistory.com/535)
 
-- [Residual Attention Network(2017) 리뷰](https://deep-learning-study.tistory.com/536), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Residual_Attention_Network(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/555)]
+- [Residual Attention Network(2017) 리뷰](https://deep-learning-study.tistory.com/536), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Residual_Attention_Network(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/555)]
 
 - [DPN(2017) 리뷰](https://deep-learning-study.tistory.com/538)
 
-- [SENet(2018) 리뷰](https://deep-learning-study.tistory.com/539), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/SENet(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/561)]
+- [SENet(2018) 리뷰](https://deep-learning-study.tistory.com/539), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/SENet(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/561)]
 
 - [MobileNetV2(2018) 리뷰](https://deep-learning-study.tistory.com/541)
 
@@ -60,7 +60,7 @@
 
 - [MobileNetV3(2019) 리뷰](https://deep-learning-study.tistory.com/551)
 
-- [EfficientNet(2019) 리뷰](https://deep-learning-study.tistory.com/552), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/EfficientNet(2019).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/563)]
+- [EfficientNet(2019) 리뷰](https://deep-learning-study.tistory.com/552), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/EfficientNet(2019).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/563)]
 
 - [Noisy Student(2020) 리뷰](https://deep-learning-study.tistory.com/554)
 
@@ -101,7 +101,7 @@
 
 - [RetinaNet(2017) 리뷰](https://deep-learning-study.tistory.com/504)
 
-- [YOLO v3(2018) 리뷰](https://deep-learning-study.tistory.com/509), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)]
+- [YOLO v3(2018) 리뷰](https://deep-learning-study.tistory.com/509), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)]
 
 
 ### Segmentation
