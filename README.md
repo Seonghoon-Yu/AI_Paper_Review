@@ -104,6 +104,17 @@
 - [YOLO v3(2018) 리뷰](https://deep-learning-study.tistory.com/509), PyTorch Code [[Goggle Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)]
 
 
+### Segmentation
+
+- [DeepLabV1(2014) 리뷰](https://deep-learning-study.tistory.com/564)
+
+- [FCN(2015) 리뷰](https://deep-learning-study.tistory.com/562)
+
+- [DeConvNet(2015) 리뷰](https://deep-learning-study.tistory.com/565)
+
+- [Mask R-CNN(2017) 리뷰](https://deep-learning-study.tistory.com/571)
+
+
 ### Normalization
 
 - [Batch Normalization(2015) 리뷰](https://deep-learning-study.tistory.com/421)
