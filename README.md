@@ -93,7 +93,7 @@
 
 - [OHEM(2016) 리뷰](https://deep-learning-study.tistory.com/501)
 
-- [DSSD(2018) 리뷰](https://deep-learning-study.tistory.com/566)
+- [DSSD(2017) 리뷰](https://deep-learning-study.tistory.com/566)
 
 - [YOLO v2(2017) 리뷰](https://deep-learning-study.tistory.com/433)
 
