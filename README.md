@@ -1,5 +1,9 @@
 # Paper Review and Implementation in PyTorch
-공부 목적으로 논문을 리뷰하고 파이토치 구현과 학습을 해보고 있습니다.
+공부 목적으로 논문을 리뷰하고 파이토치 구현을 해보고 있습니다. 
+
+Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합니다.
+
+감사합니다.
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
