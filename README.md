@@ -127,11 +127,11 @@
 
 ### Normalization
 
-- [Batch Normalization(2015) 리뷰](https://deep-learning-study.tistory.com/421)
+- [Batch Normalization(2015)](https://deep-learning-study.tistory.com/421)
 
 
 
 ### Optimization
 
-- [An overview of gradient descent optimization algorithm(2017) 리뷰](https://deep-learning-study.tistory.com/415)
+- [An overview of gradient descent optimization algorithm(2017)](https://deep-learning-study.tistory.com/415)
 
