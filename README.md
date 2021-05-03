@@ -4,9 +4,9 @@
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ### Classification
-- [Lenet-5(1998) 리뷰](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
+- [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
 
-- [AlexNet(2012) 리뷰](https://deep-learning-study.tistory.com/376), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/518)]
+- [AlexNet(2012)](https://deep-learning-study.tistory.com/376), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/518)]
 
 - [Pseudo Label(2013) 리뷰](https://deep-learning-study.tistory.com/553)
 
@@ -106,6 +106,8 @@
 - [DCN(2017) 리뷰](https://deep-learning-study.tistory.com/575)
 
 - [CoupleNet(2017) 리뷰](https://deep-learning-study.tistory.com/602)
+
+- [Soft-NMS(2017)
 
 - [Cascade R-CNN(2018) 리뷰](https://deep-learning-study.tistory.com/605)
 
