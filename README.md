@@ -103,8 +103,7 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [FPN(2017)](https://deep-learning-study.tistory.com/491)
 
-- [RetinaNet(2017)](https://deep-learning-study.tistory.com/504)
-
+- [RetinaNet(2017)](https://deep-learning-study.tistory.com/504) PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/RetinaNet(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/616)]
 - [RON(2017)](https://deep-learning-study.tistory.com/572)
 
 - [DCN(2017)](https://deep-learning-study.tistory.com/575)
