@@ -119,6 +119,7 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [YOLO v3(2018)](https://deep-learning-study.tistory.com/509), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)]
 
+- [CornerNet(2018)](https://deep-learning-study.tistory.com/613)
 
 ### Segmentation
 
