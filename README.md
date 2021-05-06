@@ -131,6 +131,10 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 - [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
 
 
+### Pose estimation
+- [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
+
+
 ### Normalization
 
 - [Batch Normalization(2015)](https://deep-learning-study.tistory.com/421)
