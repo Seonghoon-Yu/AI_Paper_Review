@@ -120,6 +120,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [CornerNet(2018)](https://deep-learning-study.tistory.com/613)
 
+- [M2Det(2019)](https://deep-learning-study.tistory.com/620)
+
+
 ### Segmentation
 
 - [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
