@@ -124,6 +124,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [CenterNet(2019)](https://deep-learning-study.tistory.com/622), [[paper](https://arxiv.org/abs/1904.08189)]
 
+- [Gaussian YOLOv3(2019)](https://deep-learning-study.tistory.com/624) [[paper](https://arxiv.org/pdf/1904.04620)]
+
 ### Segmentation
 
 - [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
