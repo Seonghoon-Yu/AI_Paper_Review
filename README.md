@@ -124,11 +124,14 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [CenterNet(2019)](https://deep-learning-study.tistory.com/622), [[paper](https://arxiv.org/abs/1904.08189)]
 
-- [Gaussian YOLOv3(2019)](https://deep-learning-study.tistory.com/624) [[paper](https://arxiv.org/pdf/1904.04620)]
+- [Gaussian YOLOv3(2019)](https://deep-learning-study.tistory.com/624), [[paper](https://arxiv.org/pdf/1904.04620)]
 
-- [FCOS(2019)](https://deep-learning-study.tistory.com/625) [[paper](https://arxiv.org/pdf/1904.01355.pdf)]
+- [FCOS(2019)](https://deep-learning-study.tistory.com/625), [[paper](https://arxiv.org/pdf/1904.01355.pdf)]
 
-- [YOLOv4(2020)](https://deep-learning-study.tistory.com/626)[[paper](https://arxiv.org/abs/2004.10934)]
+- [YOLOv4(2020)](https://deep-learning-study.tistory.com/626), [[paper](https://arxiv.org/abs/2004.10934)]
+
+- [EfficientDet(2020)](https://deep-learning-study.tistory.com/627), [[paper](https://arxiv.org/abs/1911.09070)] 
+
 
 ### Segmentation
 
