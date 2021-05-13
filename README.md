@@ -148,6 +148,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
 
 
+### Regularization
+- [DropBlock(2018)](https://deep-learning-study.tistory.com/631), [[paper](https://arxiv.org/abs/1810.12890)]
+
 ### Normalization
 
 - [Batch Normalization(2015)](https://deep-learning-study.tistory.com/421)
