@@ -132,6 +132,7 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [EfficientDet(2020)](https://deep-learning-study.tistory.com/627), [[paper](https://arxiv.org/abs/1911.09070)] 
 
+- [CSPNet(2020)](https://deep-learning-study.tistory.com/632), [[paper](https://arxiv.org/abs/1911.11929)]
 
 ### Segmentation
 
