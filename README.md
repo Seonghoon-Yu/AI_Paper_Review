@@ -7,6 +7,10 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
+### Augmentation
+- [CutMix(2019)](https://deep-learning-study.tistory.com/633), [[paper](https://arxiv.org/abs/1905.04899)]
+
+
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
 
@@ -147,9 +151,6 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
-
-### Augmentation
-- [CutMix(2019)](https://deep-learning-study.tistory.com/633), [[paper](https://arxiv.org/abs/1905.04899)]
 
 
 ### Regularization
