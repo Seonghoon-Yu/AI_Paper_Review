@@ -138,7 +138,7 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [CSPNet(2020)](https://deep-learning-study.tistory.com/632), [[paper](https://arxiv.org/abs/1911.11929)]
 
-- [DIoU Loss(2020)](https://deep-learning-study.tistory.com/634), [[paper](https://arxiv.org/abs/1911.08287)]
+- [DIoU Loss(2020)](https://deep-learning-study.tistory.com/634), [[paper](https://arxiv.org/abs/1911.08287)], [Code](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/CIoU_Loss.py)
 
 ### Segmentation
 
