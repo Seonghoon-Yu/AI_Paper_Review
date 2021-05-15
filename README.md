@@ -160,9 +160,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 ### Normalization
 
-- [Batch Normalization(2015)](https://deep-learning-study.tistory.com/421)
+- [BN(2015)](https://deep-learning-study.tistory.com/421)
 
-
+- [CBN(2020)](https://deep-learning-study.tistory.com/635), [[paper](https://arxiv.org/abs/2002.05712)]
 
 ### Optimization
 
