@@ -7,6 +7,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
+### Activation Function
+- [Mish(2019)](https://deep-learning-study.tistory.com/636), [[paper](https://arxiv.org/abs/1908.08681)
+
 ### Augmentation
 - [CutMix(2019)](https://deep-learning-study.tistory.com/633), [[paper](https://arxiv.org/abs/1905.04899)]
 
