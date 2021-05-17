@@ -8,10 +8,10 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ### Activation Function
-- [Mish(2019)](https://deep-learning-study.tistory.com/636), [[paper](https://arxiv.org/abs/1908.08681)]
+- [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
 
 ### Augmentation
-- [CutMix(2019)](https://deep-learning-study.tistory.com/633), [[paper](https://arxiv.org/abs/1905.04899)]
+- [CutMix(2019)](https://deep-learning-study.tistory.com/633), paper [[pdf](https://arxiv.org/abs/1905.04899)]
 
 
 ### Classification
@@ -129,11 +129,11 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [M2Det(2019)](https://deep-learning-study.tistory.com/620)
 
-- [CenterNet(2019)](https://deep-learning-study.tistory.com/622), [[paper](https://arxiv.org/abs/1904.08189)]
+- [CenterNet(2019)](https://deep-learning-study.tistory.com/622), paper [[pdf](https://arxiv.org/abs/1904.08189)]
 
-- [Gaussian YOLOv3(2019)](https://deep-learning-study.tistory.com/624), [[paper](https://arxiv.org/pdf/1904.04620)]
+- [Gaussian YOLOv3(2019)](https://deep-learning-study.tistory.com/624), paper [[pdf](https://arxiv.org/pdf/1904.04620)]
 
-- [FCOS(2019)](https://deep-learning-study.tistory.com/625), [[paper](https://arxiv.org/pdf/1904.01355.pdf)]
+- [FCOS(2019)](https://deep-learning-study.tistory.com/625), paper [[pdf](https://arxiv.org/pdf/1904.01355.pdf)]
 
 - [YOLOv4(2020)](https://deep-learning-study.tistory.com/626), paper [[pdf](https://arxiv.org/abs/2004.10934)]
 
@@ -144,7 +144,7 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 - [DIoU Loss(2020)](https://deep-learning-study.tistory.com/634), paper [[pdf](https://arxiv.org/abs/1911.08287)], [Code](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/CIoU_Loss.py)
 
 ### GAN
-- [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
+- [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
 
 ### Segmentation
 
