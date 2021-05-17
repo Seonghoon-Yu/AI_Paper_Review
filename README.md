@@ -135,16 +135,16 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [FCOS(2019)](https://deep-learning-study.tistory.com/625), [[paper](https://arxiv.org/pdf/1904.01355.pdf)]
 
-- [YOLOv4(2020)](https://deep-learning-study.tistory.com/626), [[paper](https://arxiv.org/abs/2004.10934)]
+- [YOLOv4(2020)](https://deep-learning-study.tistory.com/626), paper [[pdf](https://arxiv.org/abs/2004.10934)]
 
-- [EfficientDet(2020)](https://deep-learning-study.tistory.com/627), [[paper](https://arxiv.org/abs/1911.09070)] 
+- [EfficientDet(2020)](https://deep-learning-study.tistory.com/627), paper [[pdf](https://arxiv.org/abs/1911.09070)] 
 
-- [CSPNet(2020)](https://deep-learning-study.tistory.com/632), [[paper](https://arxiv.org/abs/1911.11929)]
+- [CSPNet(2020)](https://deep-learning-study.tistory.com/632), paper [[pdf](https://arxiv.org/abs/1911.11929)]
 
-- [DIoU Loss(2020)](https://deep-learning-study.tistory.com/634), [[paper](https://arxiv.org/abs/1911.08287)], [Code](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/CIoU_Loss.py)
+- [DIoU Loss(2020)](https://deep-learning-study.tistory.com/634), paper [[pdf](https://arxiv.org/abs/1911.08287)], [Code](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/CIoU_Loss.py)
 
 ### GAN
-- [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)], [[paper](https://arxiv.org/pdf/1406.2661.pdf)]
+- [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/YOLOv3(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/568)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
 
 ### Segmentation
 
@@ -156,20 +156,20 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
 
-- [PANet(2018)](https://deep-learning-study.tistory.com/637), [[paper](https://arxiv.org/abs/1803.01534)]
+- [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
 
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
 
 
 ### Regularization
-- [DropBlock(2018)](https://deep-learning-study.tistory.com/631), [[paper](https://arxiv.org/abs/1810.12890)]
+- [DropBlock(2018)](https://deep-learning-study.tistory.com/631), paper [[pdf](https://arxiv.org/abs/1810.12890)]
 
 ### Normalization
 
 - [BN(2015)](https://deep-learning-study.tistory.com/421)
 
-- [CBN(2020)](https://deep-learning-study.tistory.com/635), [[paper](https://arxiv.org/abs/2002.05712)]
+- [CBN(2020)](https://deep-learning-study.tistory.com/635), paper [[pdf](https://arxiv.org/abs/2002.05712)]
 
 ### Optimization
 
