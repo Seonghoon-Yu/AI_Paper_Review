@@ -149,10 +149,6 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [DIoU Loss(2020)](https://deep-learning-study.tistory.com/634), paper [[pdf](https://arxiv.org/abs/1911.08287)], [Code](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Object_Detection/CIoU_Loss.py)
 
-### GAN
-- [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
-
-- [CGAN(2014)](https://deep-learning-study.tistory.com/640), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)], paper [[pdf](https://arxiv.org/abs/1411.1784)]
 
 ### Segmentation
 
