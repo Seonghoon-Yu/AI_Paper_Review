@@ -1,5 +1,5 @@
 # Paper Review and Implementation in PyTorch
-공부 목적으로 논문을 리뷰하고 파이토치 구현을 해보고 있습니다. 
+공부 목적으로 논문을 리뷰하고 해당 논문 파이토치 재구현을 합니다.
 
 Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합니다.
 
