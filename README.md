@@ -75,6 +75,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [CondenseNet(2018)](https://deep-learning-study.tistory.com/550)
 
+- [CBAM(2018)](https://deep-learning-study.tistory.com/666), paper [[pdf](https://arxiv.org/abs/1807.06521)]
+
 - [Bag of Tricks(2019)](https://deep-learning-study.tistory.com/569)
 
 - [MobileNetV3(2019)](https://deep-learning-study.tistory.com/551)
