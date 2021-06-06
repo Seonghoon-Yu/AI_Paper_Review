@@ -83,6 +83,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [EfficientNet(2019)](https://deep-learning-study.tistory.com/552), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/EfficientNet(2019).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/563)]
 
+- [SKNet(2019)](https://deep-learning-study.tistory.com/669), paper [[pdf](https://arxiv.org/abs/1903.06586)]
+
 - [Noisy Student(2020)](https://deep-learning-study.tistory.com/554)
 
 - [FixEfficientNet(2020)](https://deep-learning-study.tistory.com/557)
