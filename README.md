@@ -157,6 +157,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [CircleNet(2020)](https://deep-learning-study.tistory.com/661), paper [[pdf](https://arxiv.org/pdf/2006.02474.pdf)]
 
+- [CenterNet2(2021)](https://deep-learning-study.tistory.com/670), paper [[pdf](https://arxiv.org/abs/2103.07461)]
+
 
 ### Segmentation
 
