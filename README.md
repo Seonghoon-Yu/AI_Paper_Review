@@ -85,8 +85,6 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [SKNet(2019)](https://deep-learning-study.tistory.com/669), paper [[pdf](https://arxiv.org/abs/1903.06586)]
 
-- [Class-Balanced Loss(2019)](https://deep-learning-study.tistory.com/671), paper [[pdf](https://arxiv.org/pdf/1901.05555.pdf)]
-
 - [Noisy Student(2020)](https://deep-learning-study.tistory.com/554)
 
 - [FixEfficientNet(2020)](https://deep-learning-study.tistory.com/557)
@@ -180,6 +178,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
+
+### Class Imbalance
+- [Class-Balanced Loss(2019)](https://deep-learning-study.tistory.com/671), paper [[pdf](https://arxiv.org/pdf/1901.05555.pdf)]
 
 
 ### Regularization
