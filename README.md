@@ -172,6 +172,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [DilatedNet(2016)](https://deep-learning-study.tistory.com/664), paper [[pdf](https://arxiv.org/abs/1511.07122)]
 
+- [SegNet(2016)](https://deep-learning-study.tistory.com/672), paper [[pdf](https://arxiv.org/pdf/1511.00561.pdf)]
+
 - [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
 
 - [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
