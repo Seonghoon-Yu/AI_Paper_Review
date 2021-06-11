@@ -182,6 +182,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 ### Class Imbalance
 - [Class-Balanced Loss(2019)](https://deep-learning-study.tistory.com/671), paper [[pdf](https://arxiv.org/pdf/1901.05555.pdf)]
 
+### Style Transfer
+- [A Neural Algorithm of Artistic Style(2016)](https://deep-learning-study.tistory.com/679), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/style_transfer/style_transfer(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/680)], paper [[pdf](https://arxiv.org/abs/1508.06576)]
+
 
 ### Regularization
 - [DropBlock(2018)](https://deep-learning-study.tistory.com/631), paper [[pdf](https://arxiv.org/abs/1810.12890)]
