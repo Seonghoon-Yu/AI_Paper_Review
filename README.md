@@ -206,3 +206,7 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [An overview of gradient descent optimization algorithm(2017)](https://deep-learning-study.tistory.com/415)
 
+### NLP
+- [PyTorch 구현 코드로 살펴보는 Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
+
+
