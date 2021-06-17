@@ -97,6 +97,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [Meta Pseudo Labels(2020)](https://deep-learning-study.tistory.com/560)
 
+- [Noise or Signal: The Role of Image Backgrounds in Object Recognition(2020)](https://deep-learning-study.tistory.com/693), paper [[pdf](https://arxiv.org/abs/2006.09994)]
+
 - [EfficientNetV2(2021)](https://deep-learning-study.tistory.com/567)
 
 
