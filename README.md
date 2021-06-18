@@ -7,6 +7,9 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
+### 3D Vision
+- [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
+
 ### Activation Function
 - [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
 
