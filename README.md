@@ -7,8 +7,16 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
-### 3D Vision
+### Rgb-D
+
 - [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
+
+### NLP
+- PyTorch 구현 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
+
+- PyTorch 구현 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
+
+- PyTorch 구현 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
 
 ### Activation Function
 - [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
@@ -214,10 +222,4 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 ### Optimization
 
 - [An overview of gradient descent optimization algorithm(2017)](https://deep-learning-study.tistory.com/415)
-
-### NLP
-- PyTorch 구현 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
-
-- PyTorch 구현 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
-
 
