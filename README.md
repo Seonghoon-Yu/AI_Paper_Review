@@ -46,6 +46,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [Pseudo Label(2013)](https://deep-learning-study.tistory.com/553)
 
+- PyTorch 구현 코드로 살펴보는 [Knowledge Distillation(2014)](https://deep-learning-study.tistory.com/699), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Knowledge_distillation(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/700)], paper [[pdf](https://arxiv.org/abs/1503.02531)]
+
 - [GoogLeNet(2014)](https://deep-learning-study.tistory.com/389), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/GoogLeNet(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/523)]
 
 - [VGGNet(2014)](https://deep-learning-study.tistory.com/398), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/VGGnet(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/521)]
