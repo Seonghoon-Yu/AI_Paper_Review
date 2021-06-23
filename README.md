@@ -7,9 +7,11 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
-### Rgb-D
+### 3D Vision
 
 - [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
+
+- [PointNet(2016)](https://deep-learning-study.tistory.com/702), paper [[pdf](https://arxiv.org/abs/1612.00593)]
 
 ### NLP
 - PyTorch 구현 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
