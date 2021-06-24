@@ -1,48 +1,9 @@
 # Paper Review and Implementation in PyTorch
 공부 목적으로 논문을 리뷰하고 해당 논문 파이토치 재구현을 합니다.
 
-Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합니다.
-
-감사합니다.
-
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
-### 3D Vision
 
-- [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
-
-- [PointNet(2016)](https://deep-learning-study.tistory.com/702), paper [[pdf](https://arxiv.org/abs/1612.00593)]
-
-### NLP
-- PyTorch 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
-
-- PyTorch 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
-
-- PyTorch 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
-
-- PyTorch 코드로 살펴보는 [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704)
-
-
-### Activation Function
-- [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
-
-### Augmentation
-- [CutMix(2019)](https://deep-learning-study.tistory.com/633), paper [[pdf](https://arxiv.org/abs/1905.04899)]
-
-### Super Resolution
-- PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
-
-### Style Transfer
-- PyTorch 구현 코드로 살펴보는 [A Neural Algorithm of Artistic Style(2016)](https://deep-learning-study.tistory.com/679), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/style_transfer/style_transfer(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/680)], paper [[pdf](https://arxiv.org/abs/1508.06576)]
-
-### GAN
-- PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
-
-- PyTorch 구현 코드로 살펴보는 [CGAN(2014)](https://deep-learning-study.tistory.com/640), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)], paper [[pdf](https://arxiv.org/abs/1411.1784)]
-
-- PyTorch 구현 코드로 살펴보는 [DCGAN(2015)](https://deep-learning-study.tistory.com/642), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/pix2pix(2016).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/646)], paper [[pdf](https://arxiv.org/abs/1511.06434)]
-
-- PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
 
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
@@ -202,6 +163,28 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
 
+
+### NLP
+- PyTorch 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
+
+- PyTorch 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
+
+- PyTorch 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
+
+- PyTorch 코드로 살펴보는 [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704), paper [[pdf](https://arxiv.org/pdf/1705.03122.pdf)]
+
+
+### GAN
+- PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
+
+- PyTorch 구현 코드로 살펴보는 [CGAN(2014)](https://deep-learning-study.tistory.com/640), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)], paper [[pdf](https://arxiv.org/abs/1411.1784)]
+
+- PyTorch 구현 코드로 살펴보는 [DCGAN(2015)](https://deep-learning-study.tistory.com/642), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/pix2pix(2016).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/646)], paper [[pdf](https://arxiv.org/abs/1511.06434)]
+
+- PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
+
+
+
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
 
@@ -215,7 +198,17 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 ### Model Compression
 - [Deep Compression(2016)](https://deep-learning-study.tistory.com/683), paper [[pdf](https://arxiv.org/abs/1510.00149)]
 
+### Activation Function
+- [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
 
+### Augmentation
+- [CutMix(2019)](https://deep-learning-study.tistory.com/633), paper [[pdf](https://arxiv.org/abs/1905.04899)]
+
+### Super Resolution
+- PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
+
+### Style Transfer
+- PyTorch 구현 코드로 살펴보는 [A Neural Algorithm of Artistic Style(2016)](https://deep-learning-study.tistory.com/679), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/style_transfer/style_transfer(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/680)], paper [[pdf](https://arxiv.org/abs/1508.06576)]
 
 ### Regularization
 - [DropBlock(2018)](https://deep-learning-study.tistory.com/631), paper [[pdf](https://arxiv.org/abs/1810.12890)]
@@ -230,3 +223,8 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 
 - [An overview of gradient descent optimization algorithm(2017)](https://deep-learning-study.tistory.com/415)
 
+### 3D Vision
+
+- [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
+
+- [PointNet(2016)](https://deep-learning-study.tistory.com/702), paper [[pdf](https://arxiv.org/abs/1612.00593)]
