@@ -14,11 +14,14 @@ Computer Vision을 공부하는 분들에게 많은 도움이 되었으면 합�
 - [PointNet(2016)](https://deep-learning-study.tistory.com/702), paper [[pdf](https://arxiv.org/abs/1612.00593)]
 
 ### NLP
-- PyTorch 구현 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
+- PyTorch 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
 
-- PyTorch 구현 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
+- PyTorch 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
 
-- PyTorch 구현 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
+- PyTorch 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
+
+- PyTorch 코드로 살펴보는 [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704)
+
 
 ### Activation Function
 - [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
