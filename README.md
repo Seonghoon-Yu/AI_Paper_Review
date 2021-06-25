@@ -3,7 +3,7 @@
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
-
+---
 
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
@@ -203,6 +203,8 @@
 
 ### Augmentation
 - [CutMix(2019)](https://deep-learning-study.tistory.com/633), paper [[pdf](https://arxiv.org/abs/1905.04899)]
+
+- [Learning Data Augmentation Strategies for Object Detection(2019](https://deep-learning-study.tistory.com/705), paper [[pdf](https://arxiv.org/pdf/1906.11172.pdf)]
 
 ### Super Resolution
 - PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
