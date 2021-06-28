@@ -173,6 +173,7 @@
 
 - PyTorch 코드로 살펴보는 [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704), paper [[pdf](https://arxiv.org/pdf/1705.03122.pdf)]
 
+- PyTorch 코드로 살펴보는 [Transforemr(2017)](https://deep-learning-study.tistory.com/710), paper [[pdf](https://arxiv.org/abs/1706.03762)]
 
 ### GAN
 - PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
