@@ -4,6 +4,9 @@
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ---
+### Self-supervised Learning
+- [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
+
 
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
