@@ -78,6 +78,8 @@
 
 - [Noise or Signal: The Role of Image Backgrounds in Object Recognition(2020)](https://deep-learning-study.tistory.com/693), paper [[pdf](https://arxiv.org/abs/2006.09994)]
 
+- [VIT(2020)](https://deep-learning-study.tistory.com/716), paper [[pdf](https://arxiv.org/abs/2010.11929)]
+
 - [EfficientNetV2(2021)](https://deep-learning-study.tistory.com/567)
 
 
