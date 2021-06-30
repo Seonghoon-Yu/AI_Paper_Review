@@ -7,6 +7,8 @@
 ### Self-supervised Learning
 - [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
 
+- [Context Prediction(2015)](https://deep-learning-study.tistory.com/717), paper [[pdf](https://arxiv.org/abs/1505.05192)]
+
 
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
