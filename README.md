@@ -9,6 +9,7 @@
 
 - [Context Prediction(2015)](https://deep-learning-study.tistory.com/717), paper [[pdf](https://arxiv.org/abs/1505.05192)]
 
+- [Jigsaw Puzzles(2016)](https://deep-learning-study.tistory.com/719), paper [[odf](https://arxiv.org/pdf/1603.09246.pdf)]
 
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
@@ -87,6 +88,7 @@
 
 - [EfficientNetV2(2021)](https://deep-learning-study.tistory.com/567)
 
+- [MLP-Mixer(2021)](https://deep-learning-study.tistory.com/720), paper [[odf](https://arxiv.org/pdf/2105.01601.pdf)]
 
 ### Object Detection
 
