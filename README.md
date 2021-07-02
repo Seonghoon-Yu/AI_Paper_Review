@@ -78,6 +78,8 @@
 
 - [SKNet(2019)](https://deep-learning-study.tistory.com/669), paper [[pdf](https://arxiv.org/abs/1903.06586)]
 
+- [BiT(2019)](https://deep-learning-study.tistory.com/723). paper [[pdf](https://arxiv.org/abs/1912.11370)]
+
 - [Noisy Student(2020)](https://deep-learning-study.tistory.com/554)
 
 - [FixEfficientNet(2020)](https://deep-learning-study.tistory.com/557)
