@@ -11,6 +11,8 @@
 
 - [Jigsaw Puzzles(2016)](https://deep-learning-study.tistory.com/719), paper [[odf](https://arxiv.org/pdf/1603.09246.pdf)]
 
+- [Colorful Image Coloriztion(2016)](https://deep-learning-study.tistory.com/722), paper [[pdf](https://arxiv.org/abs/1603.08511)]
+
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
 
