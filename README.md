@@ -5,6 +5,8 @@
 
 ---
 ### Self-supervised Learning
+- [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
+
 - [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
 
 - [Context Prediction(2015)](https://deep-learning-study.tistory.com/717), paper [[pdf](https://arxiv.org/abs/1505.05192)]
