@@ -237,6 +237,8 @@
 
 - [Batch Normalization(2015)](https://deep-learning-study.tistory.com/421)
 
+- [Group Normalization(2018)](https://deep-learning-study.tistory.com/726), paper [[pdf](https://arxiv.org/abs/1803.08494)]
+
 - [Cross iteration BN(2020)](https://deep-learning-study.tistory.com/635), paper [[pdf](https://arxiv.org/abs/2002.05712)]
 
 ### Optimization
