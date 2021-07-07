@@ -206,10 +206,13 @@
 
 - [SimCLR(2020)](https://deep-learning-study.tistory.com/731), paper [[pdf](https://arxiv.org/abs/2002.05709)]
 
+### Active Learning
+- [Towards Reducing Labeling Cost in Deep Object Detection(2021)](https://deep-learning-study.tistory.com/732), paper [[pdf](https://arxiv.org/abs/2106.11921)]
+
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
 
-### Class Imbalance
+### long tail
 - [Class-Balanced Loss(2019)](https://deep-learning-study.tistory.com/671), paper [[pdf](https://arxiv.org/pdf/1901.05555.pdf)]
 
 
