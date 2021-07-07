@@ -201,6 +201,19 @@
 - PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
 
 
+### Self-supervised Learning
+- [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
+
+- [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
+
+- [Context Prediction(2015)](https://deep-learning-study.tistory.com/717), paper [[pdf](https://arxiv.org/abs/1505.05192)]
+
+- [Jigsaw Puzzles(2016)](https://deep-learning-study.tistory.com/719), paper [[odf](https://arxiv.org/pdf/1603.09246.pdf)]
+
+- [Colorful Image Coloriztion(2016)](https://deep-learning-study.tistory.com/722), paper [[pdf](https://arxiv.org/abs/1603.08511)]
+
+- [MoCo(2019)](https://deep-learning-study.tistory.com/730), paper [[pdf](https://arxiv.org/abs/1911.05722)]
+
 
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
