@@ -204,6 +204,7 @@
 
 - [MoCo(2019)](https://deep-learning-study.tistory.com/730), paper [[pdf](https://arxiv.org/abs/1911.05722)]
 
+- [SimCLR(2020)](https://deep-learning-study.tistory.com/731), paper [[pdf](https://arxiv.org/abs/2002.05709)]
 
 ### Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
