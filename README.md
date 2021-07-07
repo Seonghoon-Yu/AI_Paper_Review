@@ -4,16 +4,6 @@
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ---
-### Self-supervised Learning
-- [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
-
-- [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
-
-- [Context Prediction(2015)](https://deep-learning-study.tistory.com/717), paper [[pdf](https://arxiv.org/abs/1505.05192)]
-
-- [Jigsaw Puzzles(2016)](https://deep-learning-study.tistory.com/719), paper [[odf](https://arxiv.org/pdf/1603.09246.pdf)]
-
-- [Colorful Image Coloriztion(2016)](https://deep-learning-study.tistory.com/722), paper [[pdf](https://arxiv.org/abs/1603.08511)]
 
 ### Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
