@@ -206,6 +206,9 @@
 
 - [SimCLR(2020)](https://deep-learning-study.tistory.com/731), paper [[pdf](https://arxiv.org/abs/2002.05709)]
 
+### Semi-supervised Learning
+- [Consistency-based Semi-supervised Learning for Object Detection(2019)](https://deep-learning-study.tistory.com/735), paper [[pdf](https://papers.nips.cc/paper/2019/hash/d0f4dae80c3d0277922f8371d5827292-Abstract.html)]
+
 ### Active Learning
 - [Towards Reducing Labeling Cost in Deep Object Detection(2021)](https://deep-learning-study.tistory.com/732), paper [[pdf](https://arxiv.org/abs/2106.11921)]
 
