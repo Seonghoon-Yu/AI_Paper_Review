@@ -153,6 +153,8 @@
 
 - [Swin Transformer(2021)](https://deep-learning-study.tistory.com/728), paper [[pdf](https://arxiv.org/pdf/2103.14030v1.pdf)]
 
+- [YOLOr(2021)](https://deep-learning-study.tistory.com/739), paper [[pdf](https://arxiv.org/pdf/2105.04206v1.pdf)]
+
 ### Segmentation
 
 - [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
