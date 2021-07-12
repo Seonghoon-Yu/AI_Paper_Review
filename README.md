@@ -208,6 +208,8 @@
 
 - [SimCLR(2020)](https://deep-learning-study.tistory.com/731), paper [[pdf](https://arxiv.org/abs/2002.05709)]
 
+- [MoCov2(2020)](https://deep-learning-study.tistory.com/743), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/MoCov2_Pytorch_tutorial/blob/main/MoCov2.ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/744)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)] paper [[pdf](https://arxiv.org/pdf/2003.04297.pdf)]
+
 ### Semi-supervised Learning
 - [Consistency-based Semi-supervised Learning for Object Detection(2019)](https://deep-learning-study.tistory.com/735), paper [[pdf](https://papers.nips.cc/paper/2019/hash/d0f4dae80c3d0277922f8371d5827292-Abstract.html)]
 
