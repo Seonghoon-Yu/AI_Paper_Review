@@ -46,6 +46,8 @@
 
 - [DPN(2017)](https://deep-learning-study.tistory.com/538)
 
+- [Non-local Neural Network(2017)](https://deep-learning-study.tistory.com/749), paper [[pdf](https://arxiv.org/abs/1711.07971)]
+
 - [SENet(2018)](https://deep-learning-study.tistory.com/539), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/SENet(2018).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/561)]
 
 - [MobileNetV2(2018)](https://deep-learning-study.tistory.com/541)
