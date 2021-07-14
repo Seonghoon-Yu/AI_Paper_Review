@@ -269,6 +269,8 @@
 
 - [An overview of gradient descent optimization algorithm(2017)](https://deep-learning-study.tistory.com/415)
 
+- [AdamW(2017)](https://deep-learning-study.tistory.com/750), paper [[pdf](https://arxiv.org/abs/1711.05101)]
+
 ### 3D Vision
 
 - [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
