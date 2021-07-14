@@ -176,25 +176,6 @@
 - [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
 
 
-### NLP
-- PyTorch 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
-
-- PyTorch 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
-
-- PyTorch 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
-
-- PyTorch 코드로 살펴보는 [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704), paper [[pdf](https://arxiv.org/pdf/1705.03122.pdf)]
-
-- PyTorch 코드로 살펴보는 [Transforemr(2017)](https://deep-learning-study.tistory.com/710), paper [[pdf](https://arxiv.org/abs/1706.03762)]
-
-### GAN
-- PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
-
-- PyTorch 구현 코드로 살펴보는 [CGAN(2014)](https://deep-learning-study.tistory.com/640), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)], paper [[pdf](https://arxiv.org/abs/1411.1784)]
-
-- PyTorch 구현 코드로 살펴보는 [DCGAN(2015)](https://deep-learning-study.tistory.com/642), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/pix2pix(2016).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/646)], paper [[pdf](https://arxiv.org/abs/1511.06434)]
-
-- PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
 
 
 ### Self-supervised Learning
@@ -217,6 +198,33 @@
 - [SimSiam(2020)](https://deep-learning-study.tistory.com/745), paper [[pdf](https://arxiv.org/pdf/2011.10566.pdf)]
 
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
+
+### Video
+- [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
+
+
+### GAN
+- PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
+
+- PyTorch 구현 코드로 살펴보는 [CGAN(2014)](https://deep-learning-study.tistory.com/640), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)], paper [[pdf](https://arxiv.org/abs/1411.1784)]
+
+- PyTorch 구현 코드로 살펴보는 [DCGAN(2015)](https://deep-learning-study.tistory.com/642), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/pix2pix(2016).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/646)], paper [[pdf](https://arxiv.org/abs/1511.06434)]
+
+- PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
+
+
+
+### NLP
+- PyTorch 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
+
+- PyTorch 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
+
+- PyTorch 코드로 살펴보는 [Attention(2015)](https://deep-learning-study.tistory.com/697), paper [[odf](https://arxiv.org/pdf/1409.0473.pdf)]
+
+- PyTorch 코드로 살펴보는 [Convolutional Sequence to Sequence Learning(2017)](https://deep-learning-study.tistory.com/704), paper [[pdf](https://arxiv.org/pdf/1705.03122.pdf)]
+
+- PyTorch 코드로 살펴보는 [Transforemr(2017)](https://deep-learning-study.tistory.com/710), paper [[pdf](https://arxiv.org/abs/1706.03762)]
+
 
 
 ### Semi-supervised Learning
