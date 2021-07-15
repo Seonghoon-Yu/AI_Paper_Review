@@ -197,6 +197,9 @@
 
 - [SimSiam(2020)](https://deep-learning-study.tistory.com/745), paper [[pdf](https://arxiv.org/pdf/2011.10566.pdf)]
 
+- [Understanding the Behaviour of Contrastive Loss(2020)](https://deep-learning-study.tistory.com/753), paper [[pdf](https://arxiv.org/pdf/2012.09740.pdf)]
+
+
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
 
 ### Video
