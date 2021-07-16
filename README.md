@@ -206,6 +206,7 @@
 ### Video
 - [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
 
+- [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset(2017)](https://deep-learning-study.tistory.com/756), paper [[pdf](https://arxiv.org/abs/1705.07750)]
 
 ### GAN
 - PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
