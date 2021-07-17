@@ -233,6 +233,9 @@
 
 
 ### Semi-supervised Learning
+
+- [Temporal ensembling for semi-supervised learning(2016)](https://deep-learning-study.tistory.com/757) , paper [[pdf](https://arxiv.org/abs/1610.02242)]
+
 - [Consistency-based Semi-supervised Learning for Object Detection(2019)](https://deep-learning-study.tistory.com/735), paper [[pdf](https://papers.nips.cc/paper/2019/hash/d0f4dae80c3d0277922f8371d5827292-Abstract.html)]
 
 ### Active Learning
