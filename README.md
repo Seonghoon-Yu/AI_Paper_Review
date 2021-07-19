@@ -191,6 +191,8 @@
 
 - [MoCo(2019)](https://deep-learning-study.tistory.com/730), paper [[pdf](https://arxiv.org/abs/1911.05722)]
 
+- [SeLa(2019)](https://deep-learning-study.tistory.com/754), paper [[pdf](https://arxiv.org/abs/1911.05371)]
+
 - [SimCLR(2020)](https://deep-learning-study.tistory.com/731), paper [[pdf](https://arxiv.org/abs/2002.05709)]
 
 - [MoCov2(2020)](https://deep-learning-study.tistory.com/743), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/MoCov2_Pytorch_tutorial/blob/main/MoCov2.ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/744)], paper [[pdf](https://arxiv.org/pdf/2003.04297.pdf)]
