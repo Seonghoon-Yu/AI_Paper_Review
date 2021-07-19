@@ -203,6 +203,8 @@
 
 - [BYOL(2020)](https://deep-learning-study.tistory.com/753), paper [[pdf](https://arxiv.org/abs/2012.09740)]
 
+- [SwAV(2020)](https://deep-learning-study.tistory.com/761), paper [[pdf](https://arxiv.org/abs/2006.09882)]
+
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
 
 
