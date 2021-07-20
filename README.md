@@ -189,6 +189,8 @@
 
 - [Colorful Image Coloriztion(2016)](https://deep-learning-study.tistory.com/722), paper [[pdf](https://arxiv.org/abs/1603.08511)]
 
+- [Deep Cluster(2018)](https://deep-learning-study.tistory.com/766), paper [[pdf](https://arxiv.org/abs/1807.05520)]
+
 - [MoCo(2019)](https://deep-learning-study.tistory.com/730), paper [[pdf](https://arxiv.org/abs/1911.05722)]
 
 - [SeLa(2019)](https://deep-learning-study.tistory.com/760), paper [[pdf](https://arxiv.org/abs/1911.05371)]
