@@ -225,6 +225,8 @@
 
 - [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset(2017)](https://deep-learning-study.tistory.com/756), paper [[pdf](https://arxiv.org/abs/1705.07750)]
 
+- [SlowFast Networks for Video Recognition(2018)](https://deep-learning-study.tistory.com/765), paper [[pdf](https://arxiv.org/abs/1812.03982)]
+
 
 
 ### GAN
