@@ -257,7 +257,7 @@
 
 - PyTorch 코드로 살펴보는 [Transforemr(2017)](https://deep-learning-study.tistory.com/710), paper [[pdf](https://arxiv.org/abs/1706.03762)]
 
-
+- [BERT(2018)](https://deep-learning-study.tistory.com/770), paper [[pdf](https://arxiv.org/abs/1810.04805)]
 
 ### Active Learning
 - [Towards Reducing Labeling Cost in Deep Object Detection(2021)](https://deep-learning-study.tistory.com/732), paper [[pdf](https://arxiv.org/abs/2106.11921)]
