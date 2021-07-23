@@ -233,6 +233,7 @@
 
 - [SlowFast Networks for Video Recognition(2018)](https://deep-learning-study.tistory.com/765), paper [[pdf](https://arxiv.org/abs/1812.03982)]
 
+- [TSM(2018)](https://deep-learning-study.tistory.com/772), paper [[pdf](https://arxiv.org/abs/1811.08383)]
 
 
 ### GAN
