@@ -183,6 +183,8 @@
 
 - [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
 
+- [Unsupervised Learning of Visual Representation using Videos](https://deep-learning-study.tistory.com/773), paper [[pdf](https://arxiv.org/abs/1505.00687)]
+
 - [Context Prediction(2015)](https://deep-learning-study.tistory.com/717), paper [[pdf](https://arxiv.org/abs/1505.05192)]
 
 - [Jigsaw Puzzles(2016)](https://deep-learning-study.tistory.com/719), paper [[odf](https://arxiv.org/pdf/1603.09246.pdf)]
