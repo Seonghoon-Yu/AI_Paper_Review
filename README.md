@@ -262,6 +262,8 @@
 
 - [BERT(2018)](https://deep-learning-study.tistory.com/770), paper [[pdf](https://arxiv.org/abs/1810.04805)]
 
+- [Set Transformer(2018)](https://deep-learning-study.tistory.com/777), [[pdf](https://arxiv.org/abs/1810.00825)]
+
 ### Active Learning
 - [Towards Reducing Labeling Cost in Deep Object Detection(2021)](https://deep-learning-study.tistory.com/732), paper [[pdf](https://arxiv.org/abs/2106.11921)]
 
