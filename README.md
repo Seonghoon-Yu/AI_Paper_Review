@@ -213,6 +213,8 @@
 
 - [SwAV(2020)](https://deep-learning-study.tistory.com/761), paper [[pdf](https://arxiv.org/abs/2006.09882)]
 
+- [SimCLRv2(2020)](https://deep-learning-study.tistory.com/778), paper [[pdf](https://arxiv.org/abs/2006.10029)]
+
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
 
 
