@@ -239,6 +239,7 @@
 
 - [TSM(2018)](https://deep-learning-study.tistory.com/772), paper [[pdf](https://arxiv.org/abs/1811.08383)]
 
+- [GCNet(2019)](https://deep-learning-study.tistory.com/780), paper [[pdf](https://arxiv.org/abs/1904.11492)]
 
 ### GAN
 - PyTorch 구현 코드로 살펴보는 [GAN(2014)](https://deep-learning-study.tistory.com/638), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/GAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/639)], paper [[pdf](https://arxiv.org/pdf/1406.2661.pdf)]
