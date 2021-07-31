@@ -153,6 +153,8 @@
 
 - [DETR(2020)](https://deep-learning-study.tistory.com/748), paper [[pdf](https://arxiv.org/abs/2005.12872)]
 
+- [ACT(2020)](https://deep-learning-study.tistory.com/789), paper [[pdf](https://arxiv.org/abs/2011.09315)]
+
 - [CenterNet2(2021)](https://deep-learning-study.tistory.com/670), paper [[pdf](https://arxiv.org/abs/2103.07461)]
 
 - [Swin Transformer(2021)](https://deep-learning-study.tistory.com/728), paper [[pdf](https://arxiv.org/pdf/2103.14030v1.pdf)]
