@@ -247,6 +247,8 @@
 
 - [Drop an Octave(2019)](https://deep-learning-study.tistory.com/788), paper [[pdf](https://arxiv.org/abs/1904.05049)]
 
+- [STM(2019)](https://deep-learning-study.tistory.com/800), paper [[pdf](https://arxiv.org/abs/1908.02486)]
+
 ### 3D Vision
 
 - [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
