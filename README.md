@@ -199,6 +199,8 @@
 
 - [IIC(2018)](https://deep-learning-study.tistory.com/784), paper [[pdf](https://arxiv.org/abs/1807.06653)]
 
+- [Rotation(2018)](https://deep-learning-study.tistory.com/804), paper [[pdf](https://arxiv.org/abs/1803.07728)]
+
 - [Unsupervised Feature Learning via Non-Parametric Instance Discrimination(2018)](https://deep-learning-study.tistory.com/769), paper [[pdf](https://arxiv.org/abs/1805.01978)]
 
 - [MoCo(2019)](https://deep-learning-study.tistory.com/730), paper [[pdf](https://arxiv.org/abs/1911.05722)]
