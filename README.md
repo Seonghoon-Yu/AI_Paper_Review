@@ -84,6 +84,8 @@
 
 - [VIT(2020)](https://deep-learning-study.tistory.com/716), paper [[pdf](https://arxiv.org/abs/2010.11929)]
 
+- [Deit(2020)](https://deep-learning-study.tistory.com/806), paper [[pdf](https://arxiv.org/abs/2106.07023)]
+
 - [EfficientNetV2(2021)](https://deep-learning-study.tistory.com/567)
 
 - [MLP-Mixer(2021)](https://deep-learning-study.tistory.com/720), paper [[odf](https://arxiv.org/pdf/2105.01601.pdf)]
