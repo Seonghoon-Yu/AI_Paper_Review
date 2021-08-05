@@ -90,6 +90,8 @@
 
 - [MLP-Mixer(2021)](https://deep-learning-study.tistory.com/720), paper [[odf](https://arxiv.org/pdf/2105.01601.pdf)]
 
+- [CeiT(2021)](https://deep-learning-study.tistory.com/811), paper [[pdf](https://arxiv.org/abs/2103.11816)]
+
 ### Object Detection
 
 - [IoU(Intersection over Union)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/402)
