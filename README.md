@@ -90,7 +90,11 @@
 
 - [MLP-Mixer(2021)](https://deep-learning-study.tistory.com/720), paper [[odf](https://arxiv.org/pdf/2105.01601.pdf)]
 
+- [CvT(2021)](https://deep-learning-study.tistory.com/816), paper [[pdf](https://arxiv.org/abs/2103.15808)]
+
 - [CeiT(2021)](https://deep-learning-study.tistory.com/811), paper [[pdf](https://arxiv.org/abs/2103.11816)]
+
+
 
 ### Object Detection
 
