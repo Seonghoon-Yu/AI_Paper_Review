@@ -233,6 +233,8 @@
 
 - [SimCLRv2(2020)](https://deep-learning-study.tistory.com/778), paper [[pdf](https://arxiv.org/abs/2006.10029)]
 
+- [Supervised Contrastive Learning(2020)](https://deep-learning-study.tistory.com/819), paper [[pdf](https://arxiv.org/abs/2004.11362)]
+
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
 
 
