@@ -94,7 +94,7 @@
 
 - [CeiT(2021)](https://deep-learning-study.tistory.com/811), paper [[pdf](https://arxiv.org/abs/2103.11816)]
 
-
+- [Early Convolutions Help Transformers See Better(2021)](https://deep-learning-study.tistory.com/818), paper [[pdf](https://arxiv.org/abs/2106.14881)]
 
 ### Object Detection
 
