@@ -96,6 +96,8 @@
 
 - [Early Convolutions Help Transformers See Better(2021)](https://deep-learning-study.tistory.com/818), paper [[pdf](https://arxiv.org/abs/2106.14881)]
 
+- [BoTNet(2021)](https://deep-learning-study.tistory.com/821), paper [[pdf](https://arxiv.org/abs/2101.11605)]
+
 ### Object Detection
 
 - [IoU(Intersection over Union)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/402)
