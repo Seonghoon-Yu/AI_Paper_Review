@@ -175,6 +175,8 @@
 
 - [YOLOr(2021)](https://deep-learning-study.tistory.com/739), paper [[pdf](https://arxiv.org/pdf/2105.04206v1.pdf)]
 
+- [YOLOS(2021)](https://deep-learning-study.tistory.com/826), paper [[pdf](https://arxiv.org/abs/2106.00666)]
+
 ### Segmentation
 
 - [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
