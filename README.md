@@ -247,6 +247,8 @@
 
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
 
+- [DINO(2021)](https://deep-learning-study.tistory.com/827), paper [[pdf](https://arxiv.org/abs/2104.14294)]
+
 
 
 ### Semi-supervised Learning
