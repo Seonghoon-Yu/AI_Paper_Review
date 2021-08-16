@@ -5,7 +5,7 @@
 
 ---
 
-### Classification
+## Classification
 - [Lenet-5(1998)](https://deep-learning-study.tistory.com/368), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/LeNet_5(1998).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/503)]
 
 - [AlexNet(2012)](https://deep-learning-study.tistory.com/376), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/paper-implement-in-pytorch/blob/master/Classification/AlexNet(2012).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/518)]
@@ -104,7 +104,7 @@
 
 - [CMT(2021)](https://deep-learning-study.tistory.com/829), paper [[pdf](https://arxiv.org/abs/2107.06263)]
 
-### Object Detection
+## Object Detection
 
 - [IoU(Intersection over Union)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/402)
 - [비-최대 억제(NMS, Non-maximum Suppression)를 이해하고 파이토치로 구현하기](https://deep-learning-study.tistory.com/403)
@@ -181,7 +181,7 @@
 
 - [YOLOS(2021)](https://deep-learning-study.tistory.com/826), paper [[pdf](https://arxiv.org/abs/2106.00666)]
 
-### Segmentation
+## Segmentation
 
 - [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
 
@@ -200,7 +200,7 @@
 
 
 
-### Self-supervised Learning
+## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
 
 - [Exemplar-CNN(2014)](https://deep-learning-study.tistory.com/715), paper [[pdf](https://arxiv.org/abs/1406.6909)]
@@ -222,6 +222,8 @@
 - [Rotation(2018)](https://deep-learning-study.tistory.com/804), paper [[pdf](https://arxiv.org/abs/1803.07728)]
 
 - [Unsupervised Feature Learning via Non-Parametric Instance Discrimination(2018)](https://deep-learning-study.tistory.com/769), paper [[pdf](https://arxiv.org/abs/1805.01978)]
+
+- [Tracking Emerges by Colorizing Videos(2018)](https://deep-learning-study.tistory.com/830), paper [[pdf](https://arxiv.org/pdf/1806.09594.pdf)]
 
 - [ADMIN(2019)](https://deep-learning-study.tistory.com/817), paper [[pdf](https://arxiv.org/abs/1906.00910)]
 
@@ -255,7 +257,7 @@
 
 
 
-### Semi-supervised Learning
+## Semi-supervised Learning
 
 - [Temporal ensembling for semi-supervised learning(2016)](https://deep-learning-study.tistory.com/757) , paper [[pdf](https://arxiv.org/abs/1610.02242)]
 
@@ -266,7 +268,7 @@
 
 
 
-### Video
+## Video
 - [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
 
 - [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset(2017)](https://deep-learning-study.tistory.com/756), paper [[pdf](https://arxiv.org/abs/1705.07750)]
@@ -281,7 +283,7 @@
 
 - [STM(2019)](https://deep-learning-study.tistory.com/800), paper [[pdf](https://arxiv.org/abs/1908.02486)]
 
-### 3D Vision
+## 3D Vision
 
 - [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
 
@@ -293,7 +295,7 @@
 
 
 
-### NLP
+## NLP
 - PyTorch 코드로 살펴보는 [Seq2Seq(2014)](https://deep-learning-study.tistory.com/685), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/NLP/Seq2Seq(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/686)], paper [[pdf](https://arxiv.org/abs/1409.3215)]
 
 - PyTorch 코드로 살펴보는 [GRU(2014)](https://deep-learning-study.tistory.com/691), paper [[pdf](https://arxiv.org/abs/1406.1078)]
@@ -316,42 +318,42 @@
 - PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
 
 
-### Active Learning
+## Active Learning
 - [Towards Reducing Labeling Cost in Deep Object Detection(2021)](https://deep-learning-study.tistory.com/732), paper [[pdf](https://arxiv.org/abs/2106.11921)]
 
-### Pose estimation
+## Pose estimation
 - [Hourglass(2016)](https://deep-learning-study.tistory.com/617)
 
-### long tail
+## long tail
 - [Class-Balanced Loss(2019)](https://deep-learning-study.tistory.com/671), paper [[pdf](https://arxiv.org/pdf/1901.05555.pdf)]
 
 
-### Face Recognition
+## Face Recognition
 - Pytorch 구현 코드로 살펴보는 [FaceNet(2015)](https://deep-learning-study.tistory.com/681), paper [[pdf](https://arxiv.org/pdf/1503.03832.pdf)]
 
-### Model Compression
+## Model Compression
 - [Deep Compression(2016)](https://deep-learning-study.tistory.com/683), paper [[pdf](https://arxiv.org/abs/1510.00149)]
 
-### Activation Function
+## Activation Function
 - [Mish(2019)](https://deep-learning-study.tistory.com/636), paper [[pdf](https://arxiv.org/abs/1908.08681)]
 
-### Augmentation
+## Augmentation
 - [CutMix(2019)](https://deep-learning-study.tistory.com/633), paper [[pdf](https://arxiv.org/abs/1905.04899)]
 
 - [Learning Data Augmentation Strategies for Object Detection(2019](https://deep-learning-study.tistory.com/705), paper [[pdf](https://arxiv.org/pdf/1906.11172.pdf)]
 
 - [Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation(2020)](https://deep-learning-study.tistory.com/708), paper [[pdf](https://arxiv.org/abs/2012.07177)]
 
-### Super Resolution
+## Super Resolution
 - PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
 
-### Style Transfer
+## Style Transfer
 - PyTorch 구현 코드로 살펴보는 [A Neural Algorithm of Artistic Style(2016)](https://deep-learning-study.tistory.com/679), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/style_transfer/style_transfer(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/680)], paper [[pdf](https://arxiv.org/abs/1508.06576)]
 
-### Regularization
+## Regularization
 - [DropBlock(2018)](https://deep-learning-study.tistory.com/631), paper [[pdf](https://arxiv.org/abs/1810.12890)]
 
-### Normalization
+## Normalization
 
 - [Batch Normalization(2015)](https://deep-learning-study.tistory.com/421)
 
@@ -359,7 +361,7 @@
 
 - [Cross iteration BN(2020)](https://deep-learning-study.tistory.com/635), paper [[pdf](https://arxiv.org/abs/2002.05712)]
 
-### Optimization
+## Optimization
 
 - [An overview of gradient descent optimization algorithm(2017)](https://deep-learning-study.tistory.com/415)
 
