@@ -225,6 +225,8 @@
 
 - [Tracking Emerges by Colorizing Videos(2018)](https://deep-learning-study.tistory.com/830), paper [[pdf](https://arxiv.org/pdf/1806.09594.pdf)]
 
+- [Self-supervised Learning for Video Correspondence Flow(2019)](https://deep-learning-study.tistory.com/832), paper [[pdf](https://arxiv.org/abs/1905.00875)]
+
 - [ADMIN(2019)](https://deep-learning-study.tistory.com/817), paper [[pdf](https://arxiv.org/abs/1906.00910)]
 
 - [Contrastive Multiview Coding(2019)](https://deep-learning-study.tistory.com/814), paper [[pdf](https://deep-learning-study.tistory.com/814)]
