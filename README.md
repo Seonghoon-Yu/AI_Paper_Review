@@ -262,6 +262,7 @@
 - [Self-supervised Learning for Video Correspondence Flow(2019)](https://deep-learning-study.tistory.com/832), paper [[pdf](https://arxiv.org/abs/1905.00875)]
 
 
+- [Learning Correspondence from the Cycle-consistency of Time(2019)](https://deep-learning-study.tistory.com/833), paper [[pdf](https://arxiv.org/abs/1903.07593)]
 
 
 
@@ -273,7 +274,6 @@
 
 - [Consistency-based Semi-supervised Learning for Object Detection(2019)](https://deep-learning-study.tistory.com/735), paper [[pdf](https://papers.nips.cc/paper/2019/hash/d0f4dae80c3d0277922f8371d5827292-Abstract.html)]
 
-- [Learning Correspondence from the Cycle-consistency of Time(2019)](https://deep-learning-study.tistory.com/833), paper [[pdf](https://arxiv.org/abs/1903.07593)]
 
 
 ## Video
@@ -290,6 +290,9 @@
 - [Drop an Octave(2019)](https://deep-learning-study.tistory.com/788), paper [[pdf](https://arxiv.org/abs/1904.05049)]
 
 - [STM(2019)](https://deep-learning-study.tistory.com/800), paper [[pdf](https://arxiv.org/abs/1908.02486)]
+
+- [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
+
 
 ## 3D Vision
 
