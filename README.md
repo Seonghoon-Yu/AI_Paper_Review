@@ -255,11 +255,14 @@
 
 - [DINO(2021)](https://deep-learning-study.tistory.com/827), paper [[pdf](https://arxiv.org/abs/2104.14294)]
 
-## Video Self supervised learning
+## Video SSL
 
 - [Tracking Emerges by Colorizing Videos(2018)](https://deep-learning-study.tistory.com/830), paper [[pdf](https://arxiv.org/pdf/1806.09594.pdf)]
 
 - [Self-supervised Learning for Video Correspondence Flow(2019)](https://deep-learning-study.tistory.com/832), paper [[pdf](https://arxiv.org/abs/1905.00875)]
+
+
+
 
 
 ## Semi-supervised Learning
@@ -270,7 +273,7 @@
 
 - [Consistency-based Semi-supervised Learning for Object Detection(2019)](https://deep-learning-study.tistory.com/735), paper [[pdf](https://papers.nips.cc/paper/2019/hash/d0f4dae80c3d0277922f8371d5827292-Abstract.html)]
 
-
+- [Learning Correspondence from the Cycle-consistency of Time(2019)](https://deep-learning-study.tistory.com/833), paper [[pdf](https://arxiv.org/abs/1903.07593)]
 
 
 ## Video
