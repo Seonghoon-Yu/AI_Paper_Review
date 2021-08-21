@@ -264,6 +264,8 @@
 
 - [Learning Correspondence from the Cycle-consistency of Time(2019)](https://deep-learning-study.tistory.com/833), paper [[pdf](https://arxiv.org/abs/1903.07593)]
 
+- [Joint-task Self-supervised Learning for Temporal Correspondence(2019)](https://deep-learning-study.tistory.com/835), paper [[pdf](https://arxiv.org/abs/1909.11895)]
+
 
 
 ## Semi-supervised Learning
