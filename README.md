@@ -266,6 +266,9 @@
 
 - [Joint-task Self-supervised Learning for Temporal Correspondence(2019)](https://deep-learning-study.tistory.com/835), paper [[pdf](https://arxiv.org/abs/1909.11895)]
 
+- [MAST(2020)](https://deep-learning-study.tistory.com/836), https://arxiv.org/abs/2002.07793
+
+
 
 
 ## Semi-supervised Learning
