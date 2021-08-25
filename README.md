@@ -268,7 +268,7 @@
 
 - [MAST(2020)](https://deep-learning-study.tistory.com/836), https://arxiv.org/abs/2002.07793
 
-
+- [Contrastive Transformation for Self-supervised Correspondence Learning(2020)](https://deep-learning-study.tistory.com/837), https://arxiv.org/abs/2012.05057
 
 
 ## Semi-supervised Learning
