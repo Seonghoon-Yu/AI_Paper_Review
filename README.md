@@ -272,6 +272,7 @@
 
 - [Contrastive Transformation for Self-supervised Correspondence Learning(2020)](https://deep-learning-study.tistory.com/837), https://arxiv.org/abs/2012.05057
 
+- [Mining Better Samples for Contrastive Learning of Temporal Correspondence(2021)](https://deep-learning-study.tistory.com/840), paper [[pdf](https://openaccess.thecvf.com/content/CVPR2021/html/Jeon_Mining_Better_Samples_for_Contrastive_Learning_of_Temporal_Correspondence_CVPR_2021_paper.html)]
 
 
 
