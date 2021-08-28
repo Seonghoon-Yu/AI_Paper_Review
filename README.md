@@ -274,6 +274,7 @@
 
 - [Mining Better Samples for Contrastive Learning of Temporal Correspondence(2021)](https://deep-learning-study.tistory.com/840), paper [[pdf](https://openaccess.thecvf.com/content/CVPR2021/html/Jeon_Mining_Better_Samples_for_Contrastive_Learning_of_Temporal_Correspondence_CVPR_2021_paper.html)]
 
+- [VFS(2021)](https://deep-learning-study.tistory.com/841), paper [[pdf](https://arxiv.org/abs/2103.17263)]
 
 
 ## Semi-supervised Learning
