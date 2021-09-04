@@ -249,11 +249,15 @@
 
 - [Supervised Contrastive Learning(2020)](https://deep-learning-study.tistory.com/819), paper [[pdf](https://arxiv.org/abs/2004.11362)]
 
+- [DetCo(2021)](https://deep-learning-study.tistory.com/843), paper [[pdf](https://arxiv.org/abs/2102.04803)
+
 - [SCRL(2021)](https://deep-learning-study.tistory.com/831), paper [[pdf](https://arxiv.org/abs/2103.06122)]
 
 - [MoCov3(2021)](https://deep-learning-study.tistory.com/746), paper [[pdf](https://arxiv.org/abs/2104.02057)]
 
 - [DINO(2021)](https://deep-learning-study.tistory.com/827), paper [[pdf](https://arxiv.org/abs/2104.14294)]
+
+
 
 ## Video SSL
 
