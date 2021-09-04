@@ -276,6 +276,8 @@
 
 - [VFS(2021)](https://deep-learning-study.tistory.com/841), paper [[pdf](https://arxiv.org/abs/2103.17263)]
 
+- [Contrastive Learning of Image Representations with Cross-Video Cycle-Consistency](https://deep-learning-study.tistory.com/842), paper [[pdf](https://arxiv.org/abs/2105.06463)]
+
 
 ## Semi-supervised Learning
 
