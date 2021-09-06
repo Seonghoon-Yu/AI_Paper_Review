@@ -257,7 +257,7 @@
 
 - [DINO(2021)](https://deep-learning-study.tistory.com/827), paper [[pdf](https://arxiv.org/abs/2104.14294)]
 
-
+- [EsViT(2021)](https://deep-learning-study.tistory.com/845), paper [[pdf](https://arxiv.org/abs/2106.09785)]
 
 ## Video SSL
 
