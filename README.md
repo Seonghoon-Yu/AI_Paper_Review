@@ -282,6 +282,8 @@
 
 - [Contrastive Learning of Image Representations with Cross-Video Cycle-Consistency](https://deep-learning-study.tistory.com/842), paper [[pdf](https://arxiv.org/abs/2105.06463)]
 
+- [ViCC(2021)](https://deep-learning-study.tistory.com/847), paper [[pdf](https://arxiv.org/abs/2106.10137)]
+
 
 ## Semi-supervised Learning
 
