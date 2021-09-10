@@ -312,6 +312,8 @@
 
 - [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
+- [TimeSformer(2021)](https://deep-learning-study.tistory.com/848), paper [[pdf](https://arxiv.org/abs/2102.05095)]
+
 - [ViViT(2021)](https://deep-learning-study.tistory.com/838), paper [[pdf](https://arxiv.org/abs/2103.15691)]
 
 - [Video Swin Transformer(2021)](https://deep-learning-study.tistory.com/846), paper [[pdf](https://arxiv.org/abs/2106.13230)]
