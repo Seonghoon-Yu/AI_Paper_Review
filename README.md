@@ -312,6 +312,8 @@
 
 - [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
+- [VTN(2021)](https://deep-learning-study.tistory.com/850). paper [[pdf](https://arxiv.org/abs/2102.00719)]
+
 - [TimeSformer(2021)](https://deep-learning-study.tistory.com/848), paper [[pdf](https://arxiv.org/abs/2102.05095)]
 
 - [ViViT(2021)](https://deep-learning-study.tistory.com/838), paper [[pdf](https://arxiv.org/abs/2103.15691)]
