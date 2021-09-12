@@ -316,6 +316,8 @@
 
 - [ViViT(2021)](https://deep-learning-study.tistory.com/838), paper [[pdf](https://arxiv.org/abs/2103.15691)]
 
+- [MViT(2021)](https://deep-learning-study.tistory.com/849), paper [[pdf](https://arxiv.org/abs/2104.11227)] 
+
 - [Video Swin Transformer(2021)](https://deep-learning-study.tistory.com/846), paper [[pdf](https://arxiv.org/abs/2106.13230)]
 
 
