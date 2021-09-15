@@ -100,6 +100,8 @@
 
 - [BoTNet(2021)](https://deep-learning-study.tistory.com/821), paper [[pdf](https://arxiv.org/abs/2101.11605)]
 
+- [Conformer(2021)](https://deep-learning-study.tistory.com/852), paper [[pdf](https://arxiv.org/abs/2105.03889)]
+
 - [Delving Deep into the Generalization of Vision Transformers under Distribution Shifts(2021)](https://deep-learning-study.tistory.com/824), paper [[pdf](https://arxiv.org/abs/2106.07617)]
 
 - [Scaling Vision Transformers(2021)](https://deep-learning-study.tistory.com/828), paper [[pdf](https://arxiv.org/abs/2106.04560)]
