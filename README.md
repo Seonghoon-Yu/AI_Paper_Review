@@ -314,6 +314,8 @@
 
 - [STM(2019)](https://deep-learning-study.tistory.com/800), paper [[pdf](https://arxiv.org/abs/1908.02486)]
 
+- [X3D(2020)](https://deep-learning-study.tistory.com/855), paper [[pdf](https://arxiv.org/abs/2004.04730)]
+
 - [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
 - [VTN(2021)](https://deep-learning-study.tistory.com/850). paper [[pdf](https://arxiv.org/abs/2102.00719)]
