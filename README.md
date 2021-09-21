@@ -326,6 +326,8 @@
 
 - [MViT(2021)](https://deep-learning-study.tistory.com/849), paper [[pdf](https://arxiv.org/abs/2104.11227)] 
 
+- [X-ViT(2021)](https://deep-learning-study.tistory.com/856), paper [[pdf](https://arxiv.org/abs/2106.05968)]
+
 - [Video Swin Transformer(2021)](https://deep-learning-study.tistory.com/846), paper [[pdf](https://arxiv.org/abs/2106.13230)]
 
 ## Image Processing
