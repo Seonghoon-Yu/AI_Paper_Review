@@ -185,24 +185,6 @@
 
 - [YOLOS(2021)](https://deep-learning-study.tistory.com/826), paper [[pdf](https://arxiv.org/abs/2106.00666)]
 
-## Segmentation
-
-- [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
-
-- [FCN(2015)](https://deep-learning-study.tistory.com/562)
-
-- [DeConvNet(2015)](https://deep-learning-study.tistory.com/565)
-
-- [DilatedNet(2016)](https://deep-learning-study.tistory.com/664), paper [[pdf](https://arxiv.org/abs/1511.07122)]
-
-- PyTorch 구현 코드로 살펴보는 [SegNet(2016)](https://deep-learning-study.tistory.com/672), paper [[pdf](https://arxiv.org/pdf/1511.00561.pdf)]
-
-- [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
-
-- [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
-
-
-
 
 ## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
@@ -299,7 +281,7 @@
 
 
 
-## Video
+## Video Recognition
 - [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
 
 - [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset(2017)](https://deep-learning-study.tistory.com/756), paper [[pdf](https://arxiv.org/abs/1705.07750)]
@@ -330,7 +312,27 @@
 
 - [Video Swin Transformer(2021)](https://deep-learning-study.tistory.com/846), paper [[pdf](https://arxiv.org/abs/2106.13230)]
 
+- [Towards Training Stronger Video Vision Transformers for EPIC-KITCHENS-100 Action Recognition(2021)](https://deep-learning-study.tistory.com/859), paper [[pdf](https://arxiv.org/abs/2106.05058)]
+
 - [VLF(2021)](https://deep-learning-study.tistory.com/857), paper [[pdf](https://arxiv.org/abs/2107.00451)]
+
+
+## Segmentation
+
+- [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
+
+- [FCN(2015)](https://deep-learning-study.tistory.com/562)
+
+- [DeConvNet(2015)](https://deep-learning-study.tistory.com/565)
+
+- [DilatedNet(2016)](https://deep-learning-study.tistory.com/664), paper [[pdf](https://arxiv.org/abs/1511.07122)]
+
+- PyTorch 구현 코드로 살펴보는 [SegNet(2016)](https://deep-learning-study.tistory.com/672), paper [[pdf](https://arxiv.org/pdf/1511.00561.pdf)]
+
+- [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
+
+- [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
+
 
 
 ## Image Processing
