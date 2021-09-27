@@ -186,6 +186,36 @@
 - [YOLOS(2021)](https://deep-learning-study.tistory.com/826), paper [[pdf](https://arxiv.org/abs/2106.00666)]
 
 
+
+## Segmentation
+
+- [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
+
+- [FCN(2015)](https://deep-learning-study.tistory.com/562)
+
+- [DeConvNet(2015)](https://deep-learning-study.tistory.com/565)
+
+- [DilatedNet(2015)](https://deep-learning-study.tistory.com/664), paper [[pdf](https://arxiv.org/abs/1511.07122)]
+
+- PyTorch 구현 코드로 살펴보는 [SegNet(2015)](https://deep-learning-study.tistory.com/672), paper [[pdf](https://arxiv.org/pdf/1511.00561.pdf)]
+
+- [PSPNet(2016)](https://deep-learning-study.tistory.com/864), paper [[pdf](https://arxiv.org/abs/1612.01105)]
+
+
+- [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
+
+- [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
+
+- [Panoptic Segmentation(2018)](https://deep-learning-study.tistory.com/861), paper [[pdf](https://arxiv.org/abs/1801.00868)]
+
+- [Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network(2018)](https://deep-learning-study.tistory.com/862), paper [[pdf](https://arxiv.org/abs/1809.02110)]
+
+- [Single Network Panoptic Segmentation for Street Scene Understanding(2019)](https://deep-learning-study.tistory.com/863), paper [[pdf](https://arxiv.org/abs/1902.02678)]
+
+
+
+
+
 ## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
 
@@ -298,7 +328,6 @@
 
 - [X3D(2020)](https://deep-learning-study.tistory.com/855), paper [[pdf](https://arxiv.org/abs/2004.04730)]
 
-- [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
 - [VTN(2021)](https://deep-learning-study.tistory.com/850). paper [[pdf](https://arxiv.org/abs/2102.00719)]
 
@@ -317,27 +346,10 @@
 - [VLF(2021)](https://deep-learning-study.tistory.com/857), paper [[pdf](https://arxiv.org/abs/2107.00451)], Youtube [[link](https://youtu.be/OtVHC1s3yzg)]
 
 
-## Segmentation
+## Video Segmentation
 
-- [DeepLabV1(2014)](https://deep-learning-study.tistory.com/564)
+- [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
-- [FCN(2015)](https://deep-learning-study.tistory.com/562)
-
-- [DeConvNet(2015)](https://deep-learning-study.tistory.com/565)
-
-- [DilatedNet(2016)](https://deep-learning-study.tistory.com/664), paper [[pdf](https://arxiv.org/abs/1511.07122)]
-
-- PyTorch 구현 코드로 살펴보는 [SegNet(2016)](https://deep-learning-study.tistory.com/672), paper [[pdf](https://arxiv.org/pdf/1511.00561.pdf)]
-
-- [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
-
-- [PANet(2018)](https://deep-learning-study.tistory.com/637), paper [[pdf](https://arxiv.org/abs/1803.01534)]
-
-- [Panoptic Segmentation(2018)](https://deep-learning-study.tistory.com/861), paper [[pdf](https://arxiv.org/abs/1801.00868)]
-
-- [Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network(2018)](https://deep-learning-study.tistory.com/862), paper [[pdf](https://arxiv.org/abs/1809.02110)]
-
-- [Single Network Panoptic Segmentation for Street Scene Understanding(2019)](https://deep-learning-study.tistory.com/863), paper [[pdf](https://arxiv.org/abs/1902.02678)]
 
 
 ## Image Processing
