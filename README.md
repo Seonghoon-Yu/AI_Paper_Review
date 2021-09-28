@@ -185,6 +185,8 @@
 
 - [YOLOS(2021)](https://deep-learning-study.tistory.com/826), paper [[pdf](https://arxiv.org/abs/2106.00666)]
 
+- [Pix2Seq(2021)](https://deep-learning-study.tistory.com/866), paper [[pdf](https://arxiv.org/abs/2109.10852)]
+
 
 
 ## Segmentation
