@@ -214,6 +214,8 @@
 
 - [Single Network Panoptic Segmentation for Street Scene Understanding(2019)](https://deep-learning-study.tistory.com/863), paper [[pdf](https://arxiv.org/abs/1902.02678)]
 
+- [Panoptic Feature Pyramid Networks(2019)](https://deep-learning-study.tistory.com/867), paper [[pdf](https://arxiv.org/abs/1901.02446)]
+
 - [IMP: Instance Mask Projection for High Accuracy Semantic Segmentation of Things(2019)](https://deep-learning-study.tistory.com/865), paper [[pdf](https://arxiv.org/abs/1906.06597)]
 
 
