@@ -210,6 +210,8 @@
 
 - [Panoptic Segmentation(2018)](https://deep-learning-study.tistory.com/861), paper [[pdf](https://arxiv.org/abs/1801.00868)]
 
+- Weakly- and Semi-Supervised Panoptic Segmentation(2018), paper [[pdf](https://arxiv.org/abs/1808.03575)]
+
 - [Panoptic Segmentation with a Joint Semantic and Instance Segmentation Network(2018)](https://deep-learning-study.tistory.com/862), paper [[pdf](https://arxiv.org/abs/1809.02110)]
 
 - [Single Network Panoptic Segmentation for Street Scene Understanding(2019)](https://deep-learning-study.tistory.com/863), paper [[pdf](https://arxiv.org/abs/1902.02678)]
