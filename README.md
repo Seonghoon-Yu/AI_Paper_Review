@@ -1,5 +1,5 @@
 # Paper Review and Implementation in PyTorch
-공부 목적으로 논문을 리뷰하고 해당 논문 파이토치 재구현을 합니다.
+까먹으면 다시 보려고 정리합니다.
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
@@ -368,7 +368,9 @@
 
 - [Residual Non-local Attention Networks for Image Restoration(2019)](https://deep-learning-study.tistory.com/853), paper [[pdf](https://arxiv.org/abs/1903.10082)]
 
+## Zero Shot
 
+- [Zero-Shot Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/872), paper [[pdf](https://arxiv.org/abs/1906.00817)]
 
 ## 3D Vision
 
