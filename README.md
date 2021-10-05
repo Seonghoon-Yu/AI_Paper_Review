@@ -372,6 +372,10 @@
 
 - [Zero-Shot Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/872), paper [[pdf](https://arxiv.org/abs/1906.00817)]
 
+- [A review of Generalized Zero-Shot Learning Methods(2020)](https://deep-learning-study.tistory.com/873), paper [[pdf](https://arxiv.org/abs/2011.08641)]
+
+- [Context-aware Feature Generation for Zero-shot Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/874), paper [[pdf](https://arxiv.org/abs/2008.06893)]
+
 ## 3D Vision
 
 - [Convolutional-Recursive Deep Learning for 3D Object Classification(2012)](https://deep-learning-study.tistory.com/694), paper [[pdf](https://papers.nips.cc/paper/2012/file/3eae62bba9ddf64f69d49dc48e2dd214-Paper.pdf)]
