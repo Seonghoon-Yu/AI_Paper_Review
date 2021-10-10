@@ -203,6 +203,7 @@
 
 - [PSPNet(2016)](https://deep-learning-study.tistory.com/864), paper [[pdf](https://arxiv.org/abs/1612.01105)]
 
+- [DeepLabv3(2017)](https://deep-learning-study.tistory.com/877), paper [[pdf](https://arxiv.org/abs/1706.05587)]
 
 - [Mask R-CNN(2017)](https://deep-learning-study.tistory.com/571)
 
