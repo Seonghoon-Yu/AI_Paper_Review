@@ -370,6 +370,8 @@
 
 - [SIGN(2021), Spatial-information Incorporated Generative Network for GGeneralized Zero-shot Semantic Segmentation](https://deep-learning-study.tistory.com/875), paper [[pdf](https://arxiv.org/abs/2108.12517)]
 
+- [Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/879), paper [[pdf](https://arxiv.org/abs/2108.06536)]
+
 ## Image Processing
 - PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
 
