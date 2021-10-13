@@ -1,5 +1,5 @@
 # Paper Review and Implementation in PyTorch
-까먹으면 다시 보려고 정리합니다.
+공부 목적으로 논문을 리뷰하고 해당 논문 파이토치 재구현을 합니다.
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
