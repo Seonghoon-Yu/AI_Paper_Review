@@ -368,6 +368,8 @@
 
 - [Context-aware Feature Generation for Zero-shot Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/874), paper [[pdf](https://arxiv.org/abs/2008.06893)]
 
+- [A Closer Look at Self-training for Zero-Label Segmantic Segmentation(2021)](https://deep-learning-study.tistory.com/883), paper [[pdf](https://arxiv.org/abs/2104.11692)]
+
 - [SIGN(2021), Spatial-information Incorporated Generative Network for GGeneralized Zero-shot Semantic Segmentation](https://deep-learning-study.tistory.com/875), paper [[pdf](https://arxiv.org/abs/2108.12517)]
 
 - [Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/879), paper [[pdf](https://arxiv.org/abs/2108.06536)]
