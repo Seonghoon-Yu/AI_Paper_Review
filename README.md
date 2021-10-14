@@ -366,6 +366,8 @@
 
 - [A review of Generalized Zero-Shot Learning Methods(2020)](https://deep-learning-study.tistory.com/873), paper [[pdf](https://arxiv.org/abs/2011.08641)]
 
+- [Uncertainty-Aware Learning for Zero-Shot Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/884), paper [[pdf](https://proceedings.neurips.cc/paper/2020/hash/f73b76ce8949fe29bf2a537cfa420e8f-Abstract.html)]
+
 - [Context-aware Feature Generation for Zero-shot Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/874), paper [[pdf](https://arxiv.org/abs/2008.06893)]
 
 - [A Closer Look at Self-training for Zero-Label Segmantic Segmentation(2021)](https://deep-learning-study.tistory.com/883), paper [[pdf](https://arxiv.org/abs/2104.11692)]
