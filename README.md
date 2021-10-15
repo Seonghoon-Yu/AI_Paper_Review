@@ -366,6 +366,8 @@
 
 - [A review of Generalized Zero-Shot Learning Methods(2020)](https://deep-learning-study.tistory.com/873), paper [[pdf](https://arxiv.org/abs/2011.08641)]
 
+- [Consistent Structural Relation Learning for Zero-Shot Segmentation(2020](https://deep-learning-study.tistory.com/885), paper [[pdf](https://proceedings.neurips.cc/paper/2020/hash/7504adad8bb96320eb3afdd4df6e1f60-Abstract.html)]
+
 - [Uncertainty-Aware Learning for Zero-Shot Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/884), paper [[pdf](https://proceedings.neurips.cc/paper/2020/hash/f73b76ce8949fe29bf2a537cfa420e8f-Abstract.html)]
 
 - [Context-aware Feature Generation for Zero-shot Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/874), paper [[pdf](https://arxiv.org/abs/2008.06893)]
