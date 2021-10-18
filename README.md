@@ -358,7 +358,7 @@
 
 - [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
-## Zero Shot
+## Zero Shot Segmentation
 
 - [Zero-Shot Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/872), paper [[pdf](https://arxiv.org/abs/1906.00817)]
 
@@ -379,6 +379,11 @@
 - [SIGN(2021), Spatial-information Incorporated Generative Network for GGeneralized Zero-shot Semantic Segmentation](https://deep-learning-study.tistory.com/875), paper [[pdf](https://arxiv.org/abs/2108.12517)]
 
 - [Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/879), paper [[pdf](https://arxiv.org/abs/2108.06536)]
+
+- [Languager Driven Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/890), paper [[pdf](https://openreview.net/forum?id=RriDjddCLN)]
+
+
+
 
 ## Image Processing
 - PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
