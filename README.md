@@ -364,6 +364,8 @@
 
 - [Semantic Projection Network for Zero- and Few-Label Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/876), paper [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_Semantic_Projection_Network_for_Zero-_and_Few-Label_Semantic_Segmentation_CVPR_2019_paper.pdf)]
 
+- [Learning unbiased zero-shot semantic segmentation networks via transductive transfer(2020)](https://deep-learning-study.tistory.com/891), paper [[pdf](https://arxiv.org/abs/2007.00515)]
+
 - [A review of Generalized Zero-Shot Learning Methods(2020)](https://deep-learning-study.tistory.com/873), paper [[pdf](https://arxiv.org/abs/2011.08641)]
 
 - [Consistent Structural Relation Learning for Zero-Shot Segmentation(2020](https://deep-learning-study.tistory.com/885), paper [[pdf](https://proceedings.neurips.cc/paper/2020/hash/7504adad8bb96320eb3afdd4df6e1f60-Abstract.html)]
