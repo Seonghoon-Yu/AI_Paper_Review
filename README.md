@@ -430,6 +430,8 @@
 
 - PyTorch 구현 코드로 살펴보는 [CGAN(2014)](https://deep-learning-study.tistory.com/640), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/CGAN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/641)], paper [[pdf](https://arxiv.org/abs/1411.1784)]
 
+- [Generative Moment Matching Network(2015)](https://deep-learning-study.tistory.com/893), paper [[pdf](https://arxiv.org/abs/1502.02761)]
+
 - PyTorch 구현 코드로 살펴보는 [DCGAN(2015)](https://deep-learning-study.tistory.com/642), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/pix2pix(2016).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/646)], paper [[pdf](https://arxiv.org/abs/1511.06434)]
 
 - PyTorch 구현 코드로 살펴보는 [Pix2Pix(2016)](https://deep-learning-study.tistory.com/645), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/GAN/DCGAN(2015).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/643)], paper [[pdf](https://arxiv.org/abs/1611.07004)]
