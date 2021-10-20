@@ -221,6 +221,7 @@
 
 - [IMP: Instance Mask Projection for High Accuracy Semantic Segmentation of Things(2019)](https://deep-learning-study.tistory.com/865), paper [[pdf](https://arxiv.org/abs/1906.06597)]
 
+- [Object-Contextual Representations for Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/894), paper [[pdf](https://arxiv.org/abs/1909.11065)]
 
 
 ## Self-supervised Learning
