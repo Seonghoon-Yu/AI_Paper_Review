@@ -447,6 +447,8 @@
 ## long tail
 - [Class-Balanced Loss(2019)](https://deep-learning-study.tistory.com/671), paper [[pdf](https://arxiv.org/pdf/1901.05555.pdf)]
 
+- [Seesaw Loss for Long-Tailed Instance Segmentation(2020)](https://deep-learning-study.tistory.com/902), paper [[pdf](https://arxiv.org/abs/2008.10032)]
+
 
 ## Face Recognition
 - Pytorch 구현 코드로 살펴보는 [FaceNet(2015)](https://deep-learning-study.tistory.com/681), paper [[pdf](https://arxiv.org/pdf/1503.03832.pdf)]
