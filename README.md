@@ -283,6 +283,10 @@
 
 - [EsViT(2021)](https://deep-learning-study.tistory.com/845), paper [[pdf](https://arxiv.org/abs/2106.09785)]
 
+- [Masked Autoencoders Are Scalable Vision Learners(2021)](https://deep-learning-study.tistory.com/907), paper [[pdf](https://arxiv.org/abs/2111.06377)]
+
+
+
 ## Video SSL
 
 - [Tracking Emerges by Colorizing Videos(2018)](https://deep-learning-study.tistory.com/830), paper [[pdf](https://arxiv.org/pdf/1806.09594.pdf)]
