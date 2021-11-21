@@ -364,6 +364,8 @@
 - [VisTR(2020)](https://deep-learning-study.tistory.com/834), paper [[pdf](https://arxiv.org/abs/2011.14503)]
 
 ## Zero Shot Classification
+- [DeViSE, A Deep Visual-Semantic Embedding Model(2013)](https://deep-learning-study.tistory.com/909), paper [[pdf](https://papers.nips.cc/paper/2013/hash/7cce53cf90577442771720a370c3c723-Abstract.html)]
+
 - [A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts(2017)](https://deep-learning-study.tistory.com/903), paper [[pdf](https://arxiv.org/abs/1712.01381)]
 
 ## Zero Shot Segmentation
