@@ -370,7 +370,7 @@
 
 - [A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts(2017)](https://deep-learning-study.tistory.com/903), paper [[pdf](https://arxiv.org/abs/1712.01381)]
 
-
+- [LiT: Zero-Shot Transfer with Locked-image Text Tuning(2021)](https://deep-learning-study.tistory.com/911), paper [[pdf](https://arxiv.org/abs/2111.07991)]
 
 ## Zero Shot Segmentation
 
