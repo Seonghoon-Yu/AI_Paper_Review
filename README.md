@@ -370,6 +370,8 @@
 
 - [A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts(2017)](https://deep-learning-study.tistory.com/903), paper [[pdf](https://arxiv.org/abs/1712.01381)]
 
+- [DAZLE(2020), Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention](https://deep-learning-study.tistory.com/915), paper [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf)]
+
 - [LiT: Zero-Shot Transfer with Locked-image Text Tuning(2021)](https://deep-learning-study.tistory.com/911), paper [[pdf](https://arxiv.org/abs/2111.07991)]
 
 ## Zero Shot Segmentation
