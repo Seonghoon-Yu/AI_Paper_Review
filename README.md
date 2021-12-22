@@ -372,6 +372,8 @@
 
 - [TCN(2019), Transferable Contrastive Network for Generalized Zero-Shot Learning](https://deep-learning-study.tistory.com/927), paper [[pdf](https://arxiv.org/abs/1908.05832)]
 
+- [Rethinking Zero-Shot Learning: A Conditional Visual Classification Perspective(2019)](https://deep-learning-study.tistory.com/928), paper [[pdf](https://arxiv.org/abs/1909.05995)]
+
 - [DAZLE(2020), Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention](https://deep-learning-study.tistory.com/915), paper [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf)]
 
 - [CE-GZSL(2021), Contrastive Embedding for Generalized Zero-Shot Learning](https://deep-learning-study.tistory.com/926), paper [[pdf](https://arxiv.org/abs/2103.16173)]
