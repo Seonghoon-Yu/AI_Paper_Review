@@ -404,6 +404,8 @@
 
 - [A Closer Look at Self-training for Zero-Label Segmantic Segmentation(2021)](https://deep-learning-study.tistory.com/883), paper [[pdf](https://arxiv.org/abs/2104.11692)]
 
+- [Prototypical Matching and Open Seg Rejection for Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/929), paper [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper)]
+
 - [SIGN(2021), Spatial-information Incorporated Generative Network for GGeneralized Zero-shot Semantic Segmentation](https://deep-learning-study.tistory.com/875), paper [[pdf](https://arxiv.org/abs/2108.12517)]
 
 - [Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/879), paper [[pdf](https://arxiv.org/abs/2108.06536)]
