@@ -374,6 +374,9 @@
 
 - [Rethinking Zero-Shot Learning: A Conditional Visual Classification Perspective(2019)](https://deep-learning-study.tistory.com/928), paper [[pdf](https://arxiv.org/abs/1909.05995)]
 
+- [Convolutional Prototype Learning for Zero-Shot Recognition(2019)](https://deep-learning-study.tistory.com/931), paper [[pdf](https://arxiv.org/abs/1910.09728)]
+
+
 - [DRN, Class-Prototype Discriminative Network for Generalized Zero-Shot Learning(2020)](https://deep-learning-study.tistory.com/930), paper [[pdf](https://ieeexplore.ieee.org/abstract/document/8966463)]
 
 - [DAZLE(2020), Fine-Grained Generalized Zero-Shot Learning via Dense Attribute-Based Attention](https://deep-learning-study.tistory.com/915), paper [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Fine-Grained_Generalized_Zero-Shot_Learning_via_Dense_Attribute-Based_Attention_CVPR_2020_paper.pdf)]
