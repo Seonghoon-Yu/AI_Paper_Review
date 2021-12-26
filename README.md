@@ -1,5 +1,8 @@
 # Paper Review
-논문을 읽고 개인 블로그에 정리합니다. 어떤 논문을 읽었고, 논문의 method가 기억이 안날때 다시 볼 용도로 사용합니다. 정리한 내용을 모두에게 공유하려 합니다.
+논문을 읽고 개인 블로그에 정리합니다. 
+어떤 논문을 읽었고, 논문의 method가 기억이 안날때 다시 볼 용도로 사용합니다.
+
+정리한 내용을 모두에게 공유하려 합니다.
 
 개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
