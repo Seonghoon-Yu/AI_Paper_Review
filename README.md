@@ -390,6 +390,8 @@
 
 - [CE-GZSL(2021), Contrastive Embedding for Generalized Zero-Shot Learning](https://deep-learning-study.tistory.com/926), paper [[pdf](https://arxiv.org/abs/2103.16173)]
 
+- [Task-Independent Knowledge Makes for Transferable Represenatations for Generalized Zero-Shot Learning(2021)](https://deep-learning-study.tistory.com/934), paper [[pdf](https://arxiv.org/abs/2104.01832)]
+
 - [Zero-Shot Learning via Contrastive Learning on Dual Knowledge Graphs(2021)](https://deep-learning-study.tistory.com/933), paper [[pdf](https://ieeexplore.ieee.org/document/9607851)]
 
 - [ALIGN(2021), Scaling Up Visual and Vision-Language Representation Learning with Noisy Text Supervision](https://deep-learning-study.tistory.com/916), paper [[pdf](https://arxiv.org/abs/2102.05918)]
