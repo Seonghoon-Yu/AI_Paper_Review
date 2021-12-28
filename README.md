@@ -277,6 +277,8 @@
 
 - [Supervised Contrastive Learning(2020)](https://deep-learning-study.tistory.com/819), paper [[pdf](https://arxiv.org/abs/2004.11362)]
 
+- [DenseCL(2020), Dense Contrastive Learning for Self-Supervised Visual Pre-Training](https://deep-learning-study.tistory.com/935), paper [[pdf](https://arxiv.org/abs/2011.09157)]
+
 - [DetCo(2021)](https://deep-learning-study.tistory.com/843), paper [[pdf](https://arxiv.org/abs/2102.04803)
 
 - [SCRL(2021)](https://deep-learning-study.tistory.com/831), paper [[pdf](https://arxiv.org/abs/2103.06122)]
