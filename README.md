@@ -396,6 +396,8 @@
 
 - [Zero-Shot Learning via Contrastive Learning on Dual Knowledge Graphs(2021)](https://deep-learning-study.tistory.com/933), paper [[pdf](https://ieeexplore.ieee.org/document/9607851)]
 
+- [FREE: Feature Refinement for Generalized Zero-Shot Learning(2021)](https://deep-learning-study.tistory.com/936), paper [[pdf](https://arxiv.org/abs/2107.13807)]
+
 - [ALIGN(2021), Scaling Up Visual and Vision-Language Representation Learning with Noisy Text Supervision](https://deep-learning-study.tistory.com/916), paper [[pdf](https://arxiv.org/abs/2102.05918)]
 
 - [LiT: Zero-Shot Transfer with Locked-image Text Tuning(2021)](https://deep-learning-study.tistory.com/911), paper [[pdf](https://arxiv.org/abs/2111.07991)]
