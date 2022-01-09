@@ -433,6 +433,8 @@
 - [Languager Driven Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/890), paper [[pdf](https://openreview.net/forum?id=RriDjddCLN)]
 
 
+## Few-Shot, Meta Learning
+- [Learning to Compare: Relation Network for Few-Shot Learning(2017)](https://deep-learning-study.tistory.com/937), paper [[pdf](https://arxiv.org/abs/1711.06025)]
 
 
 ## Image Processing
