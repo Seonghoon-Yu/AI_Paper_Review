@@ -227,6 +227,7 @@
 
 - [Object-Contextual Representations for Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/894), paper [[pdf](https://arxiv.org/abs/1909.11065)]
 
+- [MaskFormer, Per-Pixel Classification is Not All You Need for Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/940), paper [[pdf](https://arxiv.org/abs/2107.06278)]
 
 ## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
@@ -431,6 +432,8 @@
 - [Exploiting a Joint Embedding Space for Generalized Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/879), paper [[pdf](https://arxiv.org/abs/2108.06536)]
 
 - [Languager Driven Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/890), paper [[pdf](https://openreview.net/forum?id=RriDjddCLN)]
+
+- [A Simple Baseline for Zero-Shot Semantic Segmentation with Pre-trained Vision-language Model(2021)](https://deep-learning-study.tistory.com/939), paper [[pdf](https://arxiv.org/pdf/2112.14757.pdf)]
 
 
 ## Few-Shot, Meta Learning
