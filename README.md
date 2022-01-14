@@ -437,6 +437,8 @@
 
 
 ## Few-Shot, Meta Learning
+- [Matching Networks for One Shot Learning(2016)](https://deep-learning-study.tistory.com/941), paper [[pdf](https://arxiv.org/abs/1606.04080)]
+
 - [Learning to Compare: Relation Network for Few-Shot Learning(2017)](https://deep-learning-study.tistory.com/937), paper [[pdf](https://arxiv.org/abs/1711.06025)]
 
 
