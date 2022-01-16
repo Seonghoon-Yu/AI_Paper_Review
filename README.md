@@ -229,6 +229,8 @@
 
 - [MaskFormer, Per-Pixel Classification is Not All You Need for Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/940), paper [[pdf](https://arxiv.org/abs/2107.06278)]
 
+- [Open-Vocabulary Image Segmentation(2021)](https://deep-learning-study.tistory.com/942), paper [[pdf](https://arxiv.org/abs/2112.12143)]
+
 ## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
 
