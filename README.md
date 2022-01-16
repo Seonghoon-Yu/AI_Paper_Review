@@ -379,6 +379,8 @@
 
 - [A Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts(2017)](https://deep-learning-study.tistory.com/903), paper [[pdf](https://arxiv.org/abs/1712.01381)]
 
+- [f-VAEGAN-D2, A Feature Generating Framework for Any Shot Learning(2019)](https://deep-learning-study.tistory.com/944), paper [[pdf](https://arxiv.org/abs/1903.10132)]
+
 - [TCN(2019), Transferable Contrastive Network for Generalized Zero-Shot Learning](https://deep-learning-study.tistory.com/927), paper [[pdf](https://arxiv.org/abs/1908.05832)]
 
 - [Rethinking Zero-Shot Learning: A Conditional Visual Classification Perspective(2019)](https://deep-learning-study.tistory.com/928), paper [[pdf](https://arxiv.org/abs/1909.05995)]
