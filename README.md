@@ -1,11 +1,9 @@
-# Paper Review
-논문을 읽고 개인 블로그에 정리합니다. 
+# Paper Reading
+논문을 읽고 정리합니다. 
 
 어떤 논문을 읽었고, 논문의 method가 기억이 안날때 다시 볼 용도로 사용합니다.
 
 정리한 내용을 공유합니다.
-
-개인 블로그 홈페이지 : [https://deep-learning-study.tistory.com/](https://deep-learning-study.tistory.com/)
 
 ---
 
@@ -406,6 +404,8 @@
 - [ALIGN(2021), Scaling Up Visual and Vision-Language Representation Learning with Noisy Text Supervision](https://deep-learning-study.tistory.com/916), paper [[pdf](https://arxiv.org/abs/2102.05918)]
 
 - [LiT: Zero-Shot Transfer with Locked-image Text Tuning(2021)](https://deep-learning-study.tistory.com/911), paper [[pdf](https://arxiv.org/abs/2111.07991)]
+
+- [Generalized Category Discovery(2022)](https://deep-learning-study.tistory.com/945), paper [[pdf](https://arxiv.org/abs/2201.02609)]
 
 ## Zero Shot Segmentation
 
