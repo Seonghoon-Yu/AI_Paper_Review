@@ -437,6 +437,8 @@
 
 - [Languager Driven Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/890), paper [[pdf](https://openreview.net/forum?id=RriDjddCLN)]
 
+- [DenseCLIP: Extract Free Dence Labels from CLIP(2021)](https://deep-learning-study.tistory.com/946), paper [[pdf](https://arxiv.org/abs/2112.01071)]
+
 - [Decoupling Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/943), paper [[pdf](https://arxiv.org/abs/2112.07910)]
 
 - [A Simple Baseline for Zero-Shot Semantic Segmentation with Pre-trained Vision-language Model(2021)](https://deep-learning-study.tistory.com/939), paper [[pdf](https://arxiv.org/pdf/2112.14757.pdf)]
