@@ -330,6 +330,7 @@
 
 - [ReCo, Bootstrapping Semantic Segmentation with Regional Contrast(2021)](https://deep-learning-study.tistory.com/868), paper [[pdf](https://arxiv.org/abs/2104.04465)]
 
+- [Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision(2021)](https://deep-learning-study.tistory.com/948), paper [[pdf](https://arxiv.org/abs/2106.01226)]
 
 ## Video Recognition
 - [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
