@@ -407,6 +407,10 @@
 
 - [Generalized Category Discovery(2022)](https://deep-learning-study.tistory.com/945), paper [[pdf](https://arxiv.org/abs/2201.02609)]
 
+## Zero Shot Detection
+- [ViLD(2021), Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation](https://deep-learning-study.tistory.com/947), paper [[pdf](https://arxiv.org/abs/2104.13921)]
+
+
 ## Zero Shot Segmentation
 
 - [Zero-Shot Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/872), paper [[pdf](https://arxiv.org/abs/1906.00817)]
