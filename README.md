@@ -324,6 +324,8 @@
 
 - [Consistency-based Semi-supervised Learning for Object Detection(2019)](https://deep-learning-study.tistory.com/735), paper [[pdf](https://papers.nips.cc/paper/2019/hash/d0f4dae80c3d0277922f8371d5827292-Abstract.html)]
 
+- [PseudoSeg, Designing Pseudo Labels for Semantic Segmentation(2020)](https://deep-learning-study.tistory.com/953), paper [[pdf](https://arxiv.org/abs/2010.09713)]
+
 - [ReCo, Bootstrapping Semantic Segmentation with Regional Contrast(2021)](https://deep-learning-study.tistory.com/868), paper [[pdf](https://arxiv.org/abs/2104.04465)]
 
 - [Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision(2021)](https://deep-learning-study.tistory.com/948), paper [[pdf](https://arxiv.org/abs/2106.01226)]
