@@ -333,6 +333,10 @@
 - [Soft Teacher(2021), End-to-End Semi-Supervised Object Detection with Soft Teacher](https://deep-learning-study.tistory.com/949), paper [[pdf](https://arxiv.org/abs/2106.09018)]
 
 
+## weakly
+- [Class Activation Map(CAM), Learning Deep Features for Discriminative Localization](https://deep-learning-study.tistory.com/954), paper [[pdf](https://arxiv.org/abs/1512.04150)]
+
+
 ## Video Recognition
 - [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
 
