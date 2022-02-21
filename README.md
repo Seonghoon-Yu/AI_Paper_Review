@@ -336,6 +336,9 @@
 ## weakly
 - [Class Activation Map(CAM), Learning Deep Features for Discriminative Localization](https://deep-learning-study.tistory.com/954), paper [[pdf](https://arxiv.org/abs/1512.04150)]
 
+- [Grad-CAM, Visual Explanations from Deep Networks via Gradient based Localization](https://deep-learning-study.tistory.com/955), paper [[pdf](https://arxiv.org/abs/1610.02391)]
+
+
 
 ## Video Recognition
 - [Learning Spatiotemporal Features with 3D Convolutional Network(2014)](https://deep-learning-study.tistory.com/751), paper [[pdf](https://arxiv.org/abs/1412.0767)]
