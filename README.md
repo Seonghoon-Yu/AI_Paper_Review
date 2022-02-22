@@ -338,6 +338,8 @@
 
 - [Grad-CAM, Visual Explanations from Deep Networks via Gradient based Localization](https://deep-learning-study.tistory.com/955), paper [[pdf](https://arxiv.org/abs/1610.02391)]
 
+- [Zoom-CAM, Generating Fine-grained Pixel Annotations from Image Labels(2020)](https://deep-learning-study.tistory.com/956), paper [[pdf](https://arxiv.org/abs/2010.08644)]
+
 
 
 ## Video Recognition
@@ -418,6 +420,8 @@
 
 ## Zero Shot Detection
 - [ViLD(2021), Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation](https://deep-learning-study.tistory.com/947), paper [[pdf](https://arxiv.org/abs/2104.13921)]
+
+- [Detic(2022), Detecting Twenty-thousand Classes using Image-level Supervision](https://deep-learning-study.tistory.com/957), paper [[pdf](https://arxiv.org/abs/2201.02605)]
 
 
 ## Zero Shot Segmentation
