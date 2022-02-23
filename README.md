@@ -340,6 +340,8 @@
 
 - [Zoom-CAM, Generating Fine-grained Pixel Annotations from Image Labels(2020)](https://deep-learning-study.tistory.com/956), paper [[pdf](https://arxiv.org/abs/2010.08644)]
 
+- [GETAM: Gradient-weighted Element-wise Transformer Attention Map for Weakly-supervised Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/958), paper [[pdf](https://arxiv.org/abs/2112.02841)]
+
 
 
 ## Video Recognition
