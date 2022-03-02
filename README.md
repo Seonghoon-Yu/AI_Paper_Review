@@ -332,6 +332,8 @@
 
 - [Soft Teacher(2021), End-to-End Semi-Supervised Object Detection with Soft Teacher](https://deep-learning-study.tistory.com/949), paper [[pdf](https://arxiv.org/abs/2106.09018)]
 
+- [CaSP(2021), Class-agnostic Semi-Supervised Pretraining for Detection & Segmentation](https://deep-learning-study.tistory.com/960), paper [[pdf](https://arxiv.org/abs/2112.04966)]
+
 
 ## weakly
 - [Class Activation Map(CAM), Learning Deep Features for Discriminative Localization](https://deep-learning-study.tistory.com/954), paper [[pdf](https://arxiv.org/abs/1512.04150)]
