@@ -221,9 +221,12 @@
 
 - [Object-Contextual Representations for Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/894), paper [[pdf](https://arxiv.org/abs/1909.11065)]
 
+- [CondInst, Conditional Convolution for Instance Segmentation(2020)](https://deep-learning-study.tistory.com/961), paper [[pdf](https://arxiv.org/abs/2003.05664)]
+
 - [MaskFormer, Per-Pixel Classification is Not All You Need for Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/940), paper [[pdf](https://arxiv.org/abs/2107.06278)]
 
-- [Open-Vocabulary Image Segmentation(2021)](https://deep-learning-study.tistory.com/942), paper [[pdf](https://arxiv.org/abs/2112.12143)]
+- [Open-World Entity Segmentation(2021)](https://deep-learning-study.tistory.com/962), paper [[pdf](https://arxiv.org/abs/2107.14228)]
+
 
 ## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
@@ -463,6 +466,8 @@
 - [Decoupling Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/943), paper [[pdf](https://arxiv.org/abs/2112.07910)]
 
 - [A Simple Baseline for Zero-Shot Semantic Segmentation with Pre-trained Vision-language Model(2021)](https://deep-learning-study.tistory.com/939), paper [[pdf](https://arxiv.org/pdf/2112.14757.pdf)]
+
+- [Open-Vocabulary Image Segmentation(2021)](https://deep-learning-study.tistory.com/942), paper [[pdf](https://arxiv.org/abs/2112.12143)]
 
 
 ## Few-Shot, Meta Learning
