@@ -482,6 +482,17 @@
 - [Learning to Compare: Relation Network for Few-Shot Learning(2017)](https://deep-learning-study.tistory.com/937), paper [[pdf](https://arxiv.org/abs/1711.06025)]
 
 
+## Prompting and Vision-Language Model
+
+- [Prompt-Based Multi-Model Image Segmentation](https://arxiv.org/abs/2112.10003)
+
+- [DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/abs/2112.01518)
+
+
+
+
+
+
 ## Image Processing
 - PyTorch 구현 코드로 살펴보는 [SRCNNe(2014)](https://deep-learning-study.tistory.com/687), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Super_Resolution/SRCNN(2014).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/688)], paper [[pdf](https://arxiv.org/abs/1501.00092)]
 
