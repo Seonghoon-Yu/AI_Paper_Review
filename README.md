@@ -227,6 +227,11 @@
 
 - [Open-World Entity Segmentation(2021)](https://deep-learning-study.tistory.com/962), paper [[pdf](https://arxiv.org/abs/2107.14228)]
 
+- Prompt based Multi-modal Image Segmentation(2021), paper [[pdf](https://arxiv.org/abs/2112.10003)]
+
+- DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting, paper [[pdf](https://arxiv.org/abs/2112.10003)]
+
+
 
 ## Self-supervised Learning
 - [Constrative Loss(2006)](https://deep-learning-study.tistory.com/724), paper [[pdf](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)]
@@ -382,6 +387,7 @@
 - [Towards Training Stronger Video Vision Transformers for EPIC-KITCHENS-100 Action Recognition(2021)](https://deep-learning-study.tistory.com/859), paper [[pdf](https://arxiv.org/abs/2106.05058)]
 
 - [VLF(2021)](https://deep-learning-study.tistory.com/857), paper [[pdf](https://arxiv.org/abs/2107.00451)], Youtube [[link](https://youtu.be/OtVHC1s3yzg)]
+
 
 
 ## Video Segmentation
