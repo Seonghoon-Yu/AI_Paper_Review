@@ -484,9 +484,9 @@
 
 ## Prompting and Vision-Language Model
 
-- [Prompt-Based Multi-Model Image Segmentation](https://arxiv.org/abs/2112.10003)
+- [Prompt-Based Multi-Model Image Segmentation(2021)](https://arxiv.org/abs/2112.10003)
 
-- [DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/abs/2112.01518)
+- [DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting(2021)](https://arxiv.org/abs/2112.01518)
 
 
 
