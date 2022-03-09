@@ -484,11 +484,19 @@
 
 ## Prompting and Vision-Language Model
 
+cv
+
+- [CoOp(2021), Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)
+
+- [CLIP-Adapter, Better Vision-Language Models with Feature Adapters(2021)](https://arxiv.org/abs/2110.04544)
+
 - [Prompt-Based Multi-Model Image Segmentation(2021)](https://arxiv.org/abs/2112.10003)
 
 - [DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting(2021)](https://arxiv.org/abs/2112.01518)
 
+nlp
 
+- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing(2021)](https://arxiv.org/abs/2107.13586)
 
 
 
