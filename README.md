@@ -231,6 +231,10 @@
 
 - DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting, paper [[pdf](https://arxiv.org/abs/2112.10003)]
 
+- [Mask2Former, Masked-attention Mask Transformer for Universal Image Segmentation(2021)](https://arxiv.org/abs/2112.01527)
+
+- [SeMask<, Semantically Masked Transformers for Semantic Segmentation(2021)](https://arxiv.org/abs/2112.12782)
+
 
 
 ## Self-supervised Learning
