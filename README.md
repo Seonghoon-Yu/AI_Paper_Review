@@ -486,9 +486,13 @@
 
 cv
 
+- [CPT, Colorful Prompt Tuning for Pre-trained Vision-Language Models](https://arxiv.org/abs/2109.11797)
+
 - [CoOp(2021), Learning to Prompt for Vision-Language Models](https://arxiv.org/abs/2109.01134)
 
 - [CLIP-Adapter, Better Vision-Language Models with Feature Adapters(2021)](https://arxiv.org/abs/2110.04544)
+
+- [Tip-Adapter, Training-free CLIP-Adapter for Better Vision-Language Modeling](https://arxiv.org/abs/2111.03930)
 
 - [Prompt-Based Multi-Model Image Segmentation(2021)](https://arxiv.org/abs/2112.10003)
 
