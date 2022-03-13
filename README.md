@@ -183,7 +183,17 @@
 
 - [YOLOS(2021)](https://deep-learning-study.tistory.com/826), paper [[pdf](https://arxiv.org/abs/2106.00666)]
 
+- Dynamic Head, Unifying Object Detection Heads with Attention(2021), paper [[pdf](https://arxiv.org/abs/2106.08322)]
+
 - [Pix2Seq(2021)](https://deep-learning-study.tistory.com/866), paper [[pdf](https://arxiv.org/abs/2109.10852)]
+
+- Anchor DETR, Query Design for Transformer-Based Object Detection(2021), paper [[pdf](https://arxiv.org/abs/2109.07107)]
+
+- DAB-DETR, Dynamic Anchor Boxes are Better Queries for DETR(2022), paper [[pdf](https://arxiv.org/abs/2201.12329)]
+
+- DN-DETR, Accelerate DETR Training by Introducing Query DeNoising(2022), paper [[pdf](https://arxiv.org/abs/2203.01305)]
+
+- DINO, DETR with Imporved DeNoising Anchor Boxes for End-to-End Object Detection(2022), paper [[pdf](https://arxiv.org/abs/2203.03605)]
 
 
 
