@@ -175,6 +175,8 @@
 
 - [Deformable DETR(2020)](https://deep-learning-study.tistory.com/825), paper [[pdf](https://arxiv.org/abs/2010.04159)]
 
+- Localization Distillation for Dense Object Detection(2102)
+
 - [CenterNet2(2021)](https://deep-learning-study.tistory.com/670), paper [[pdf](https://arxiv.org/abs/2103.07461)]
 
 - [Swin Transformer(2021)](https://deep-learning-study.tistory.com/728), paper [[pdf](https://arxiv.org/pdf/2103.14030v1.pdf)]
@@ -232,6 +234,8 @@
 - [Object-Contextual Representations for Semantic Segmentation(2019)](https://deep-learning-study.tistory.com/894), paper [[pdf](https://arxiv.org/abs/1909.11065)]
 
 - [CondInst, Conditional Convolution for Instance Segmentation(2020)](https://deep-learning-study.tistory.com/961), paper [[pdf](https://arxiv.org/abs/2003.05664)]
+
+- Max-DeepLab, End-to-End Panoptic Segmentation wtih Mask Transformers, paper [[pdf](https://arxiv.org/abs/2012.00759)]
 
 - [MaskFormer, Per-Pixel Classification is Not All You Need for Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/940), paper [[pdf](https://arxiv.org/abs/2107.06278)]
 
@@ -481,6 +485,8 @@
 
 - [Languager Driven Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/890), paper [[pdf](https://openreview.net/forum?id=RriDjddCLN)]
 
+- Zero-Shot Semantic Segmentation via Spatial and Multi-Scale Aware Visual Class Embedding, paper [[pdf](https://www.semanticscholar.org/paper/Zero-Shot-Semantic-Segmentation-via-Spatial-and-Cha-Wang/9d3d4d413125bb27681117b947320717d8deadfe)]
+
 - [DenseCLIP: Extract Free Dence Labels from CLIP(2021)](https://deep-learning-study.tistory.com/946), paper [[pdf](https://arxiv.org/abs/2112.01071)]
 
 - [Decoupling Zero-Shot Semantic Segmentation(2021)](https://deep-learning-study.tistory.com/943), paper [[pdf](https://arxiv.org/abs/2112.07910)]
@@ -511,6 +517,10 @@ cv
 - [Prompt-Based Multi-Model Image Segmentation(2021)](https://arxiv.org/abs/2112.10003)
 
 - [DenseCLIP, Language-Guided Dense Prediction with Context-Aware Prompting(2021)](https://arxiv.org/abs/2112.01518)
+
+- Prompting Visual-Language Models for Efficient Video Understanding, paper [[pdf](https://arxiv.org/abs/2112.04478)]
+
+- Conditianl Prompt Learning for Visiona-Language Models, paper [[pdf](https://arxiv.org/abs/2203.05557)]
 
 nlp
 
