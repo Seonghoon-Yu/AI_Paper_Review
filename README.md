@@ -450,6 +450,9 @@
 - [Generalized Category Discovery(2022)](https://deep-learning-study.tistory.com/945), paper [[pdf](https://arxiv.org/abs/2201.02609)]
 
 ## Zero Shot Detection
+
+- Synthesizing the Unseen for Zero-shot Object Detection, paper [[pdf](https://arxiv.org/abs/2010.09425)] 
+
 - [ViLD(2021), Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation](https://deep-learning-study.tistory.com/947), paper [[pdf](https://arxiv.org/abs/2104.13921)]
 
 - [Detic(2022), Detecting Twenty-thousand Classes using Image-level Supervision](https://deep-learning-study.tistory.com/957), paper [[pdf](https://arxiv.org/abs/2201.02605)]
