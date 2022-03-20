@@ -451,11 +451,11 @@
 
 ## Zero Shot Detection
 
-- Synthesizing the Unseen for Zero-shot Object Detection, paper [[pdf](https://arxiv.org/abs/2010.09425)] 
+- Synthesizing the Unseen for Zero-shot Object Detection(2020), paper [[pdf](https://arxiv.org/abs/2010.09425)] 
 
 - [ViLD(2021), Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation](https://deep-learning-study.tistory.com/947), paper [[pdf](https://arxiv.org/abs/2104.13921)]
 
-- Robust Region Feature Synthesizer for Zero-Shot Object Detection, paper [[pdf](https://arxiv.org/abs/2201.00103)]
+- Robust Region Feature Synthesizer for Zero-Shot Object Detection(2022), paper [[pdf](https://arxiv.org/abs/2201.00103)]
 
 - [Detic(2022), Detecting Twenty-thousand Classes using Image-level Supervision](https://deep-learning-study.tistory.com/957), paper [[pdf](https://arxiv.org/abs/2201.02605)]
 
